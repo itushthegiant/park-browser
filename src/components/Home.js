@@ -1,13 +1,18 @@
 import React, { Component } from 'react'
+import Parks from '../containers/Parks'
+import Container from 'react-bootstrap/Container'
 
 export default class Home extends Component {
+
     render() {
         return (
-            <div>
+            <div className="home-page">
                 <h1>
-                    Home page
+                    Park Browser
                 </h1>
+                <Parks />
             </div>
         )
     }
 }
+ 
