@@ -19,7 +19,8 @@ export default class Parks extends Component {
         fetch('http://localhost:5000/parks')
             .then(resp => resp.json())
             .then(data => this.setState({
-                parks: data
+                parks: data,
+                showedParks: data
             }))
     }
 

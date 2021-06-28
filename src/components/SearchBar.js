@@ -37,11 +37,14 @@ export default class SearchBar extends Component {
 
     render() {
         return (
-            <div className="search-bar">
+           <div className="search-bar">
                 <Container>
                     <Form onSubmit={this.handleSubmit}>
                         <Row>
-                            <Col xs={7}>
+                            <Col>
+                                <Form.Control placeholder="Address" onChange={this.handleAddressChange} />
+                            </Col>
+                            <Col >
                                 <Form.Control placeholder="City" onChange={this.handleCityChange} />
                             </Col>
                             <Col>
