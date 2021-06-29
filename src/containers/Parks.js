@@ -31,22 +31,33 @@ export default class Parks extends Component {
         })
     }
 
+
+
     capitalize = (word) =>  {
         return word.charAt(0).toUpperCase() + word.slice(1)
     }
 
-    filterParks = (city, state) => {
-        let showedParks = this.state.parks.map(park => {
-            if (city === park.City) {
-                return park
+
+
+    filterParks = (filters) => {
+        const showedParks = this.state.parks.filter(park => {
+            for (const filter in filters) {
+                if (!filters[filter]) {
+                    continue
+                }
+                
+                if (park[this.capitalize(filter)] != filters[filter]) {
+                    return false
+                }
             }
+            return true
         })
 
         this.setState({
             showedParks: showedParks
         })
     }
-
+    /// Credits for Narendra Jadhav from Stackoverflow for this method
 
 
     render() {
