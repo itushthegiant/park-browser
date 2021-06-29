@@ -10,9 +10,10 @@ export default class SearchBar extends Component {
     state = {
         city: '',
         state: '',
+        address: ''
     }
 
-
+ß
 
     handleCityChange = (event) => {
         this.setState({
@@ -28,9 +29,21 @@ export default class SearchBar extends Component {
     }
 
 
+
+    handleAddressChange = (event) => {
+        this.setState({
+            address: event.target.value
+        })
+    }
+
     handleSubmit = (event) => {
         event.preventDefault()
-        this.props.selectedParks(this.state.city, this.state.state)
+        const filters = {
+            city: this.state.city,
+            state: this.state.state,
+            address: this.state.address,
+        };
+        this.props.selectedParks(filters)
     }
     
 

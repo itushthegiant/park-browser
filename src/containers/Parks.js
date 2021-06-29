@@ -31,6 +31,9 @@ export default class Parks extends Component {
         })
     }
 
+    capitalize = (word) =>  {
+        return word.charAt(0).toUpperCase() + word.slice(1)
+    }
 
     filterParks = (city, state) => {
         let showedParks = this.state.parks.map(park => {
