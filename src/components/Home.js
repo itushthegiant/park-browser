@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Parks from '../containers/Parks'
-import Container from 'react-bootstrap/Container'
+
 
 export default class Home extends Component {
 
@@ -15,4 +15,3 @@ export default class Home extends Component {
         )
     }
 }
- 

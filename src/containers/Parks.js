@@ -38,6 +38,7 @@ export default class Parks extends Component {
     }
 
 
+    /// Credits for Narendra Jadhav from Stackoverflow for this method
 
     filterParks = (filters) => {
         const showedParks = this.state.parks.filter(park => {
@@ -46,7 +47,7 @@ export default class Parks extends Component {
                     continue
                 }
                 
-                if (park[this.capitalize(filter)] != filters[filter]) {
+                if (park[this.capitalize(filter)] !== filters[filter]) {
                     return false
                 }
             }
