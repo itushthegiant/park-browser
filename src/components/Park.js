@@ -6,7 +6,7 @@ export default function Park(props) {
 
     return (
         <Col md={4}>
-            <Card style={{ width: '18rem' }} className='mb-3'>
+            <Card style={{ width: '18rem' }} className='park-card mb-3'>
                 <Card.Body>
                     <Card.Title>{props.parkData.locationName}</Card.Title>
                     <Card.Subtitle className="mb-2">State: {props.parkData.State}</Card.Subtitle>

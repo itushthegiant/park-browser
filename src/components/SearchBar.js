@@ -54,7 +54,7 @@ export default class SearchBar extends Component {
                                 <Form.Control placeholder="State" name='state' onChange={this.handleOnChange} />
                             </Col>
                         </Row>
-                        <Button variant="success" type="submit">Search</Button>
+                        <Button variant="success" type="submit" className='mb-5 mt-2'>Search</Button>
                     </Form>
                 </Container>
             </div>
