@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import About from './components/About'
 import Home from './components/Home'
 import Triplog from './containers/Triplog';
-import Navbar from  './components/Navbar'
+import Navibar from  './components/Navibar'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Navbar />
+        <Navibar />
         <Switch>
           <Route exact path ='/triplog' component={Triplog} />
           <Route exact path='/' component={Home} />

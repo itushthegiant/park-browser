@@ -33,7 +33,7 @@ export default class Triplog extends Component {
                 <h1>
                     Triplog
                 </h1>
-                <Container>
+                <Container className='mb-5'>
                     <GuestForm addNewLog={this.addNewLog} />
                 </Container>
                     <Row>

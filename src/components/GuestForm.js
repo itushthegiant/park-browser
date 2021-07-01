@@ -18,6 +18,8 @@ export default class GuestForm extends Component {
         const  { name, value } = event.target
         this.setState({
             [name]: value,
+            createdAt: moment().format('ll')
+
         })
     }
 
@@ -33,7 +35,7 @@ export default class GuestForm extends Component {
             },
             body: JSON.stringify({
                 guestName: this.state.name,
-                createdAt: '',
+                createdAt: this.state.createdAt,
                 content: this.state.content
             })
         })

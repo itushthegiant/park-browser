@@ -6,7 +6,7 @@ export default function GuestReview(props) {
     return (
         <div>
             <Col>
-                <Card style={{ width: '18rem' }}>
+                <Card className='mb-3' style={{ width: '18rem' }}>
                     <Card.Body>
                         <Card.Title>Name: {props.logData.guestName}</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">Posted at: {props.logData.createdAt}</Card.Subtitle>
