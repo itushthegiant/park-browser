@@ -3,6 +3,8 @@ import Container from 'react-bootstrap/Container'
 import GuestForm from '../components/GuestForm'
 import GuestReview from '../components/GuestReview'
 import Row from 'react-bootstrap/Row'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBookOpen } from '@fortawesome/free-solid-svg-icons'
 
 
 export default class Triplog extends Component {
@@ -31,6 +33,7 @@ export default class Triplog extends Component {
         return (
             <div className='triplog'>
                 <h1>
+                    <FontAwesomeIcon icon={faBookOpen}/>
                     Triplog
                 </h1>
                 <Container className='mb-5'>
