@@ -1,17 +1,36 @@
 {
   "triplog": [
     {
-      "guestName": "",
+      "guestName": "Example",
+      "createdAt": "Example",
+      "content": "Example",
+      "id": 1
+    },
+    {
       "createdAt": "",
-      "content": ""
+      "id": 2
+    },
+    {
+      "createdAt": "",
+      "id": 3
+    },
+    {
+      "createdAt": "",
+      "id": 4
+    },
+    {
+      "guestName": "asd",
+      "createdAt": "",
+      "content": "asd",
+      "id": 5
+    },
+    {
+      "guestName": "Etamar",
+      "createdAt": "",
+      "content": "hahaha",
+      "id": 6
     }
   ],
-  
-  
-  
-  
-  
-  
   "parks": [
     {
       "Location Number": "BRVB",
@@ -24,7 +43,13 @@
       "Fax Number": "(785) 354-7213",
       "Latitude": 39.037925,
       "Longitude": -95.676498,
-      "Location": { "coordinates": [-95.676498, 39.037925], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -95.676498,
+          39.037925
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "BRCA",
@@ -37,7 +62,13 @@
       "Fax Number": "(435) 834-4703",
       "Latitude": 37.5965706,
       "Longitude": -112.1787896,
-      "Location": { "coordinates": [-112.1787896, 37.5965706], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -112.1787896,
+          37.5965706
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "buff",
@@ -50,7 +81,13 @@
       "Fax Number": "(870) 365-2701",
       "Latitude": 36.2331995,
       "Longitude": -93.1060044,
-      "Location": { "coordinates": [-93.1060044, 36.2331995], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -93.1060044,
+          36.2331995
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cabr",
@@ -63,7 +100,13 @@
       "Fax Number": "(619) 226-6311",
       "Latitude": 32.674287,
       "Longitude": -117.23963,
-      "Location": { "coordinates": [-117.23963, 32.674287], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -117.23963,
+          32.674287
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cali",
@@ -76,7 +119,13 @@
       "Fax Number": "(801) 741-1102",
       "Latitude": 40.7620689,
       "Longitude": -111.888922,
-      "Location": { "coordinates": [-111.888922, 40.7620689], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.888922,
+          40.7620689
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cana",
@@ -89,7 +138,13 @@
       "Fax Number": "(321) 264-2906",
       "Latitude": 28.613144,
       "Longitude": -80.8075783,
-      "Location": { "coordinates": [-80.8075783, 28.613144], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -80.8075783,
+          28.613144
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CARI",
@@ -102,7 +157,13 @@
       "Fax Number": "(318) 356-7285",
       "Latitude": 31.7398039,
       "Longitude": -93.0835779,
-      "Location": { "coordinates": [-93.0835779, 31.7398039], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -93.0835779,
+          31.7398039
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cach",
@@ -115,7 +176,13 @@
       "Fax Number": "(928) 674-5507",
       "Latitude": 36.154448,
       "Longitude": -109.552607,
-      "Location": { "coordinates": [-109.552607, 36.154448], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -109.552607,
+          36.154448
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CANY",
@@ -128,7 +195,13 @@
       "Fax Number": "(435) 719-2300",
       "Latitude": 38.5398057,
       "Longitude": -109.5061713,
-      "Location": { "coordinates": [-109.5061713, 38.5398057], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -109.5061713,
+          38.5398057
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CAHA",
@@ -141,7 +214,13 @@
       "Fax Number": "(252) 473-2595",
       "Latitude": 35.938547,
       "Longitude": -75.712322,
-      "Location": { "coordinates": [-75.712322, 35.938547], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.712322,
+          35.938547
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cakr",
@@ -154,7 +233,13 @@
       "Fax Number": "(907) 442-8316",
       "Latitude": 67.45055,
       "Longitude": -163.5490191,
-      "Location": { "coordinates": [-163.5490191, 67.45055], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -163.5490191,
+          67.45055
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CALO",
@@ -167,7 +252,13 @@
       "Fax Number": "(252) 728-2160",
       "Latitude": 34.6881785,
       "Longitude": -76.526505,
-      "Location": { "coordinates": [-76.526505, 34.6881785], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.526505,
+          34.6881785
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CARE",
@@ -180,7 +271,13 @@
       "Fax Number": "(435) 425-3026",
       "Latitude": 38.291308,
       "Longitude": -111.262257,
-      "Location": { "coordinates": [-111.262257, 38.291308], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.262257,
+          38.291308
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CAJO",
@@ -193,7 +290,13 @@
       "Fax Number": 0,
       "Latitude": 38.971705,
       "Longitude": -76.483576,
-      "Location": { "coordinates": [-76.483576, 38.971705], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.483576,
+          38.971705
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CAVO",
@@ -206,7 +309,13 @@
       "Fax Number": "(575) 278-2211",
       "Latitude": 36.7810744,
       "Longitude": -103.9695127,
-      "Location": { "coordinates": [-103.9695127, 36.7810744], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -103.9695127,
+          36.7810744
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CARL",
@@ -219,7 +328,13 @@
       "Fax Number": 0,
       "Latitude": 35.273142,
       "Longitude": -82.453088,
-      "Location": { "coordinates": [-82.453088, 35.273142], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -82.453088,
+          35.273142
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CAVE",
@@ -232,7 +347,13 @@
       "Fax Number": "(575) 785-2133",
       "Latitude": 32.386916,
       "Longitude": -104.221362,
-      "Location": { "coordinates": [-104.221362, 32.386916], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -104.221362,
+          32.386916
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cagr",
@@ -245,7 +366,13 @@
       "Fax Number": "(520) 723-7209",
       "Latitude": 32.995425,
       "Longitude": -111.5354502,
-      "Location": { "coordinates": [-111.5354502, 32.995425], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.5354502,
+          32.995425
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "casa",
@@ -258,7 +385,13 @@
       "Fax Number": "(904) 823-9388",
       "Latitude": 29.897989,
       "Longitude": -81.312123,
-      "Location": { "coordinates": [-81.312123, 29.897989], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.312123,
+          29.897989
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CACL",
@@ -271,7 +404,13 @@
       "Fax Number": 0,
       "Latitude": 40.7035011,
       "Longitude": -74.0168506,
-      "Location": { "coordinates": [-74.0168506, 40.7035011], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.0168506,
+          40.7035011
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CATO",
@@ -284,7 +423,13 @@
       "Fax Number": "(301) 271-2764",
       "Latitude": 39.633853,
       "Longitude": -77.448206,
-      "Location": { "coordinates": [-77.448206, 39.633853], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.448206,
+          39.633853
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CEBR",
@@ -297,7 +442,13 @@
       "Fax Number": "(435) 586-3813",
       "Latitude": 37.6845859,
       "Longitude": -113.0965036,
-      "Location": { "coordinates": [-113.0965036, 37.6845859], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -113.0965036,
+          37.6845859
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CHCU",
@@ -310,7 +461,13 @@
       "Fax Number": "(505) 786-7061",
       "Latitude": 36.0638,
       "Longitude": -107.9708,
-      "Location": { "coordinates": [-107.9708, 36.0638], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -107.9708,
+          36.0638
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CHAM",
@@ -323,7 +480,13 @@
       "Fax Number": "(915) 532-7240",
       "Latitude": 31.7680934,
       "Longitude": -106.4583047,
-      "Location": { "coordinates": [-106.4583047, 31.7680934], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -106.4583047,
+          31.7680934
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "chis",
@@ -336,7 +499,13 @@
       "Fax Number": "(805) 658-5799",
       "Latitude": 34.245852,
       "Longitude": -119.2664691,
-      "Location": { "coordinates": [-119.2664691, 34.245852], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -119.2664691,
+          34.245852
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CHPI",
@@ -349,7 +518,13 @@
       "Fax Number": "(843) 881-7070",
       "Latitude": 32.758321,
       "Longitude": -79.856317,
-      "Location": { "coordinates": [-79.856317, 32.758321], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -79.856317,
+          32.758321
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "chat",
@@ -362,7 +537,13 @@
       "Fax Number": 0,
       "Latitude": 33.9968515,
       "Longitude": -84.3338522,
-      "Location": { "coordinates": [-84.3338522, 33.9968515], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -84.3338522,
+          33.9968515
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CHOH",
@@ -375,7 +556,13 @@
       "Fax Number": "(301) 739-5275",
       "Latitude": 39.6105435,
       "Longitude": -77.6881048,
-      "Location": { "coordinates": [-77.6881048, 39.6105435], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.6881048,
+          39.6105435
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CBPO",
@@ -388,7 +575,13 @@
       "Fax Number": "(410) 267-5777",
       "Latitude": 38.971705,
       "Longitude": -76.483576,
-      "Location": { "coordinates": [-76.483576, 38.971705], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.483576,
+          38.971705
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "chch",
@@ -401,7 +594,13 @@
       "Fax Number": "(423) 752-5215",
       "Latitude": 34.942377,
       "Longitude": -85.259056,
-      "Location": { "coordinates": [-85.259056, 34.942377], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -85.259056,
+          34.942377
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CHIC",
@@ -414,7 +613,13 @@
       "Fax Number": "(580) 622-2296",
       "Latitude": 34.5089397,
       "Longitude": -96.969625,
-      "Location": { "coordinates": [-96.969625, 34.5089397], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -96.969625,
+          34.5089397
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "chir",
@@ -427,7 +632,13 @@
       "Fax Number": "(520) 824-3421",
       "Latitude": 32.007788,
       "Longitude": -109.361298,
-      "Location": { "coordinates": [-109.361298, 32.007788], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -109.361298,
+          32.007788
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CIRO",
@@ -440,7 +651,13 @@
       "Fax Number": "(208) 824-5563",
       "Latitude": 42.0774026,
       "Longitude": -113.7037797,
-      "Location": { "coordinates": [-113.7037797, 42.0774026], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -113.7037797,
+          42.0774026
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CLBA",
@@ -453,7 +670,13 @@
       "Fax Number": 0,
       "Latitude": 38.967151,
       "Longitude": -77.1403459,
-      "Location": { "coordinates": [-77.1403459, 38.967151], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.1403459,
+          38.967151
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "colm",
@@ -466,7 +689,13 @@
       "Fax Number": "(970) 858-0372",
       "Latitude": 39.0556092,
       "Longitude": -108.7007007,
-      "Location": { "coordinates": [-108.7007007, 39.0556092], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -108.7007007,
+          39.0556092
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "coro",
@@ -479,7 +708,13 @@
       "Fax Number": "(520) 366-5705",
       "Latitude": 31.3458659,
       "Longitude": -110.253776,
-      "Location": { "coordinates": [-110.253776, 31.3458659], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.253776,
+          31.3458659
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "COWP",
@@ -492,7 +727,13 @@
       "Fax Number": "(864) 461-7795",
       "Latitude": 35.073993,
       "Longitude": -81.8740202,
-      "Location": { "coordinates": [-81.8740202, 35.073993], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.8740202,
+          35.073993
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CRLA",
@@ -505,7 +746,13 @@
       "Fax Number": "(541) 594-3010",
       "Latitude": 42.962058,
       "Longitude": -122.148106,
-      "Location": { "coordinates": [-122.148106, 42.962058], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.148106,
+          42.962058
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CRMO",
@@ -518,7 +765,13 @@
       "Fax Number": "(208) 527-3073",
       "Latitude": 43.41665,
       "Longitude": -113.5166497,
-      "Location": { "coordinates": [-113.5166497, 43.41665], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -113.5166497,
+          43.41665
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CUGA",
@@ -531,7 +784,13 @@
       "Fax Number": "(606) 248-7276",
       "Latitude": 36.602419,
       "Longitude": -83.692026,
-      "Location": { "coordinates": [-83.692026, 36.602419], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -83.692026,
+          36.602419
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cuis",
@@ -544,7 +803,13 @@
       "Fax Number": "(912) 882-6284",
       "Latitude": 30.7206567,
       "Longitude": -81.5502296,
-      "Location": { "coordinates": [-81.5502296, 30.7206567], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.5502296,
+          30.7206567
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "cure",
@@ -557,7 +822,13 @@
       "Fax Number": "(970) 641-3127",
       "Latitude": 38.4657461,
       "Longitude": -107.16668,
-      "Location": { "coordinates": [-107.16668, 38.4657461], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -107.16668,
+          38.4657461
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "CUVA",
@@ -570,7 +841,13 @@
       "Fax Number": "(440) 546-5989",
       "Latitude": 41.2824455,
       "Longitude": -81.5706109,
-      "Location": { "coordinates": [-81.5706109, 41.2824455], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.5706109,
+          41.2824455
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "DABE",
@@ -583,7 +860,13 @@
       "Fax Number": "(440) 546-5989",
       "Latitude": 41.4736696,
       "Longitude": -81.4914281,
-      "Location": { "coordinates": [-81.4914281, 41.4736696], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.4914281,
+          41.4736696
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "deso",
@@ -596,7 +879,13 @@
       "Fax Number": "(941) 792-5094",
       "Latitude": 27.371266,
       "Longitude": -82.580364,
-      "Location": { "coordinates": [-82.580364, 27.371266], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -82.580364,
+          27.371266
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "deva",
@@ -609,7 +898,13 @@
       "Fax Number": "(760) 786-3283",
       "Latitude": 36.5053891,
       "Longitude": -117.0794082,
-      "Location": { "coordinates": [-117.0794082, 36.5053891], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -117.0794082,
+          36.5053891
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "DEWA",
@@ -622,7 +917,13 @@
       "Fax Number": "(570) 426-2402",
       "Latitude": 41.121115,
       "Longitude": -74.898707,
-      "Location": { "coordinates": [-74.898707, 41.121115], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.898707,
+          41.121115
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "dena",
@@ -635,7 +936,13 @@
       "Fax Number": "(907) 683-9612",
       "Latitude": 63.7296854,
       "Longitude": -148.766697,
-      "Location": { "coordinates": [-148.766697, 63.7296854], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -148.766697,
+          63.7296854
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "DEMO",
@@ -648,7 +955,13 @@
       "Fax Number": "(215) 861-4950",
       "Latitude": 39.9480134,
       "Longitude": -75.1461357,
-      "Location": { "coordinates": [-75.1461357, 39.9480134], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.1461357,
+          39.9480134
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "depo",
@@ -661,7 +974,13 @@
       "Fax Number": "(760) 934-4780",
       "Latitude": 37.6146273,
       "Longitude": -119.0852642,
-      "Location": { "coordinates": [-119.0852642, 37.6146273], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -119.0852642,
+          37.6146273
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "DETO",
@@ -674,7 +993,13 @@
       "Fax Number": "(307) 467-5350",
       "Latitude": 44.588333,
       "Longitude": -104.698333,
-      "Location": { "coordinates": [-104.698333, 44.588333], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -104.698333,
+          44.588333
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "dino",
@@ -687,7 +1012,13 @@
       "Fax Number": "(970) 374-3003",
       "Latitude": 40.5191016,
       "Longitude": -108.9264524,
-      "Location": { "coordinates": [-108.9264524, 40.5191016], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -108.9264524,
+          40.5191016
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "drto",
@@ -700,7 +1031,13 @@
       "Fax Number": "(305) 242-7711",
       "Latitude": 24.56,
       "Longitude": -81.81,
-      "Location": { "coordinates": [-81.81, 24.56], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.81,
+          24.56
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "EDAL",
@@ -713,7 +1050,13 @@
       "Fax Number": "(215) 861-4950",
       "Latitude": 39.9480134,
       "Longitude": -75.1461357,
-      "Location": { "coordinates": [-75.1461357, 39.9480134], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.1461357,
+          39.9480134
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "EFMO",
@@ -726,7 +1069,13 @@
       "Fax Number": "(800) 322-1704",
       "Latitude": 43.139283,
       "Longitude": -91.245468,
-      "Location": { "coordinates": [-91.245468, 43.139283], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -91.245468,
+          43.139283
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "EISE",
@@ -739,7 +1088,13 @@
       "Fax Number": "(717) 338-0821",
       "Latitude": 39.8122032,
       "Longitude": -77.2215251,
-      "Location": { "coordinates": [-77.2215251, 39.8122032], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.2215251,
+          39.8122032
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ELTE",
@@ -752,7 +1107,13 @@
       "Fax Number": "(505) 986-5214",
       "Latitude": 35.691543,
       "Longitude": -105.937406,
-      "Location": { "coordinates": [-105.937406, 35.691543], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.937406,
+          35.691543
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ELCA",
@@ -765,7 +1126,13 @@
       "Fax Number": "(505) 988-5214",
       "Latitude": 35.689361,
       "Longitude": -105.933751,
-      "Location": { "coordinates": [-105.933751, 35.689361], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.933751,
+          35.689361
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ELMA",
@@ -778,7 +1145,13 @@
       "Fax Number": "(505) 876-2791",
       "Latitude": 35.1610428,
       "Longitude": -107.8410667,
-      "Location": { "coordinates": [-107.8410667, 35.1610428], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -107.8410667,
+          35.1610428
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ELMO",
@@ -791,7 +1164,13 @@
       "Fax Number": "(505) 783-4689",
       "Latitude": 35.043518,
       "Longitude": -108.34627,
-      "Location": { "coordinates": [-108.34627, 35.043518], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -108.34627,
+          35.043518
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ELRO",
@@ -804,7 +1183,13 @@
       "Fax Number": 0,
       "Latitude": 41.77043,
       "Longitude": -73.932905,
-      "Location": { "coordinates": [-73.932905, 41.77043], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.932905,
+          41.77043
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ELIS",
@@ -817,7 +1202,13 @@
       "Fax Number": "(212) 363-6304",
       "Latitude": 40.723223,
       "Longitude": -74.011682,
-      "Location": { "coordinates": [-74.011682, 40.723223], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.011682,
+          40.723223
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ESSE",
@@ -830,7 +1221,13 @@
       "Fax Number": "(978) 744-6473",
       "Latitude": 42.5214953,
       "Longitude": -70.8949931,
-      "Location": { "coordinates": [-70.8949931, 42.5214953], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -70.8949931,
+          42.5214953
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "euon",
@@ -843,7 +1240,13 @@
       "Fax Number": "(925) 838-9471",
       "Latitude": 37.800695,
       "Longitude": -121.981435,
-      "Location": { "coordinates": [-121.981435, 37.800695], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -121.981435,
+          37.800695
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ever",
@@ -856,7 +1259,13 @@
       "Fax Number": "(305) 242-7711",
       "Latitude": 25.395755,
       "Longitude": -80.5834525,
-      "Location": { "coordinates": [-80.5834525, 25.395755], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -80.5834525,
+          25.395755
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FEHA",
@@ -869,7 +1278,13 @@
       "Fax Number": "(212) 668-2899",
       "Latitude": 40.7073139,
       "Longitude": -74.010262,
-      "Location": { "coordinates": [-74.010262, 40.7073139], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.010262,
+          40.7073139
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FIIS",
@@ -882,7 +1297,13 @@
       "Fax Number": "(631) 289-4898",
       "Latitude": 40.7552554,
       "Longitude": -73.0168646,
-      "Location": { "coordinates": [-73.0168646, 40.7552554], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.0168646,
+          40.7552554
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FILA",
@@ -895,7 +1316,13 @@
       "Fax Number": "(330) 456-3414",
       "Latitude": 40.797611,
       "Longitude": -81.375456,
-      "Location": { "coordinates": [-81.375456, 40.797611], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.375456,
+          40.797611
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FLNI",
@@ -908,7 +1335,13 @@
       "Fax Number": "(814) 893-6329",
       "Latitude": 40.017274,
       "Longitude": -78.909198,
-      "Location": { "coordinates": [-78.909198, 40.017274], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -78.909198,
+          40.017274
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "flfo",
@@ -921,7 +1354,13 @@
       "Fax Number": "(719) 748-3164",
       "Latitude": 38.900586,
       "Longitude": -105.336536,
-      "Location": { "coordinates": [-105.336536, 38.900586], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.336536,
+          38.900586
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "fobo",
@@ -934,7 +1373,13 @@
       "Fax Number": "(520) 847-2221",
       "Latitude": 32.1514176,
       "Longitude": -109.4526832,
-      "Location": { "coordinates": [-109.4526832, 32.1514176], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -109.4526832,
+          32.1514176
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FODA",
@@ -947,7 +1392,13 @@
       "Fax Number": "(432) 426-3122",
       "Latitude": 30.6017944,
       "Longitude": -103.8955494,
-      "Location": { "coordinates": [-103.8955494, 30.6017944], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -103.8955494,
+          30.6017944
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FODO",
@@ -960,7 +1411,13 @@
       "Fax Number": "(931) 232-4085",
       "Latitude": 36.4848862,
       "Longitude": -87.8574308,
-      "Location": { "coordinates": [-87.8574308, 36.4848862], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -87.8574308,
+          36.4848862
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOFO",
@@ -973,7 +1430,13 @@
       "Fax Number": "(301) 763-1389",
       "Latitude": 38.71312,
       "Longitude": -77.025503,
-      "Location": { "coordinates": [-77.025503, 38.71312], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.025503,
+          38.71312
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "fofr",
@@ -986,7 +1449,13 @@
       "Fax Number": "(912) 634-5357",
       "Latitude": 31.223111,
       "Longitude": -81.389279,
-      "Location": { "coordinates": [-81.389279, 31.223111], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.389279,
+          31.223111
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOLS",
@@ -999,7 +1468,13 @@
       "Fax Number": "(620) 285-3571",
       "Latitude": 38.189289,
       "Longitude": -99.19959,
-      "Location": { "coordinates": [-99.19959, 38.189289], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -99.19959,
+          38.189289
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "foma",
@@ -1012,7 +1487,13 @@
       "Fax Number": "(904) 471-7605",
       "Latitude": 29.716366,
       "Longitude": -81.234059,
-      "Location": { "coordinates": [-81.234059, 29.716366], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.234059,
+          29.716366
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FONE",
@@ -1025,7 +1506,13 @@
       "Fax Number": "(724) 329-8682",
       "Latitude": 39.819078,
       "Longitude": -79.587852,
-      "Location": { "coordinates": [-79.587852, 39.819078], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -79.587852,
+          39.819078
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "fopo",
@@ -1038,7 +1525,13 @@
       "Fax Number": 0,
       "Latitude": 37.767098,
       "Longitude": -122.465741,
-      "Location": { "coordinates": [-122.465741, 37.767098], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.465741,
+          37.767098
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "fopu",
@@ -1051,7 +1544,13 @@
       "Fax Number": "(912) 652-4232",
       "Latitude": 32.018264,
       "Longitude": -80.990196,
-      "Location": { "coordinates": [-80.990196, 32.018264], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -80.990196,
+          32.018264
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FORA",
@@ -1064,7 +1563,13 @@
       "Fax Number": "(252) 473-2595",
       "Latitude": 35.938547,
       "Longitude": -75.712322,
-      "Location": { "coordinates": [-75.712322, 35.938547], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.712322,
+          35.938547
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOSC",
@@ -1077,7 +1582,13 @@
       "Fax Number": "(620) 223-0188",
       "Latitude": 37.842788,
       "Longitude": -94.705509,
-      "Location": { "coordinates": [-94.705509, 37.842788], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -94.705509,
+          37.842788
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "fosm",
@@ -1090,7 +1601,13 @@
       "Fax Number": "(479) 783-5307",
       "Latitude": 35.387619,
       "Longitude": -94.4290819,
-      "Location": { "coordinates": [-94.4290819, 35.387619], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -94.4290819,
+          35.387619
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOST",
@@ -1103,7 +1620,13 @@
       "Fax Number": "(315) 334-5051",
       "Latitude": 43.2119731,
       "Longitude": -75.4547454,
-      "Location": { "coordinates": [-75.4547454, 43.2119731], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.4547454,
+          43.2119731
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOSU",
@@ -1116,7 +1639,13 @@
       "Fax Number": "(843) 883-3910",
       "Latitude": 32.758321,
       "Longitude": -79.856317,
-      "Location": { "coordinates": [-79.856317, 32.758321], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -79.856317,
+          32.758321
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOUN",
@@ -1129,7 +1658,13 @@
       "Fax Number": "(505) 454-1155",
       "Latitude": 35.846872,
       "Longitude": -105.018118,
-      "Location": { "coordinates": [-105.018118, 35.846872], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.018118,
+          35.846872
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOUS",
@@ -1142,7 +1677,13 @@
       "Fax Number": "(701) 572-7321",
       "Latitude": 48.00016,
       "Longitude": -104.041483,
-      "Location": { "coordinates": [-104.041483, 48.00016], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -104.041483,
+          48.00016
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOVA",
@@ -1155,7 +1696,13 @@
       "Fax Number": "(360) 816-6363",
       "Latitude": 45.6252599,
       "Longitude": -122.6543063,
-      "Location": { "coordinates": [-122.6543063, 45.6252599], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.6543063,
+          45.6252599
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FOWA",
@@ -1168,7 +1715,13 @@
       "Fax Number": "(301) 763-1389",
       "Latitude": 38.71312,
       "Longitude": -77.025503,
-      "Location": { "coordinates": [-77.025503, 38.71312], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.025503,
+          38.71312
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FRLA",
@@ -1181,7 +1734,13 @@
       "Fax Number": "(617) 232-4073",
       "Latitude": 42.3254655,
       "Longitude": -71.1320319,
-      "Location": { "coordinates": [-71.1320319, 42.3254655], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.1320319,
+          42.3254655
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FRSP",
@@ -1194,7 +1753,13 @@
       "Fax Number": "(540) 371-1907",
       "Latitude": 38.308756,
       "Longitude": -77.455278,
-      "Location": { "coordinates": [-77.455278, 38.308756], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.455278,
+          38.308756
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "FRHI",
@@ -1207,7 +1772,13 @@
       "Fax Number": "(724) 725-1999",
       "Latitude": 39.819078,
       "Longitude": -79.587852,
-      "Location": { "coordinates": [-79.587852, 39.819078], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -79.587852,
+          39.819078
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "gaar",
@@ -1220,7 +1791,13 @@
       "Fax Number": "(907) 692-5400",
       "Latitude": 67.251868,
       "Longitude": -150.184189,
-      "Location": { "coordinates": [-150.184189, 67.251868], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -150.184189,
+          67.251868
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GATE",
@@ -1233,7 +1810,13 @@
       "Fax Number": "(718) 354-4605",
       "Latitude": 40.6035923,
       "Longitude": -74.0588092,
-      "Location": { "coordinates": [-74.0588092, 40.6035923], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.0588092,
+          40.6035923
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GEGR",
@@ -1246,7 +1829,13 @@
       "Fax Number": "(212) 932-9631",
       "Latitude": 40.812908,
       "Longitude": -73.962923,
-      "Location": { "coordinates": [-73.962923, 40.812908], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.962923,
+          40.812908
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GERO",
@@ -1259,7 +1848,13 @@
       "Fax Number": "(812) 882-7270",
       "Latitude": 38.6778773,
       "Longitude": -87.5353188,
-      "Location": { "coordinates": [-87.5353188, 38.6778773], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -87.5353188,
+          38.6778773
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GWCA",
@@ -1272,7 +1867,13 @@
       "Fax Number": "(417) 325-4231",
       "Latitude": 36.9859501,
       "Longitude": -94.3510047,
-      "Location": { "coordinates": [-94.3510047, 36.9859501], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -94.3510047,
+          36.9859501
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GETT",
@@ -1285,7 +1886,13 @@
       "Fax Number": "(717) 334-1891",
       "Latitude": 39.8122032,
       "Longitude": -77.2215251,
-      "Location": { "coordinates": [-77.2215251, 39.8122032], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.2215251,
+          39.8122032
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GICL",
@@ -1298,7 +1905,13 @@
       "Fax Number": "(575) 536-9344",
       "Latitude": 32.77,
       "Longitude": -108.279999,
-      "Location": { "coordinates": [-108.279999, 32.77], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -108.279999,
+          32.77
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "glba",
@@ -1311,7 +1924,13 @@
       "Fax Number": "(907) 697-2654",
       "Latitude": 58.8318772,
       "Longitude": -136.9987946,
-      "Location": { "coordinates": [-136.9987946, 58.8318772], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -136.9987946,
+          58.8318772
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GLAC",
@@ -1324,7 +1943,13 @@
       "Fax Number": "(406) 888-7808",
       "Latitude": 48.8046506,
       "Longitude": -114.1625084,
-      "Location": { "coordinates": [-114.1625084, 48.8046506], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -114.1625084,
+          48.8046506
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GLCA",
@@ -1337,7 +1962,13 @@
       "Fax Number": 0,
       "Latitude": 37.3583836,
       "Longitude": -110.8076084,
-      "Location": { "coordinates": [-110.8076084, 37.3583836], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.8076084,
+          37.3583836
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GLEC",
@@ -1350,7 +1981,13 @@
       "Fax Number": "(301) 320-1405",
       "Latitude": 38.7011622,
       "Longitude": -90.2978916,
-      "Location": { "coordinates": [-90.2978916, 38.7011622], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -90.2978916,
+          38.7011622
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "goga",
@@ -1363,7 +2000,13 @@
       "Fax Number": 0,
       "Latitude": 37.8439986,
       "Longitude": -122.5259596,
-      "Location": { "coordinates": [-122.5259596, 37.8439986], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.5259596,
+          37.8439986
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GOSP",
@@ -1376,7 +2019,13 @@
       "Fax Number": "(435) 471-2341",
       "Latitude": 41.6316468,
       "Longitude": -112.4947092,
-      "Location": { "coordinates": [-112.4947092, 41.6316468], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -112.4947092,
+          41.6316468
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GOIS",
@@ -1389,7 +2038,13 @@
       "Fax Number": "(212) 825-3055",
       "Latitude": 40.7012349,
       "Longitude": -74.0116813,
-      "Location": { "coordinates": [-74.0116813, 40.7012349], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.0116813,
+          40.7012349
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "grca",
@@ -1402,7 +2057,13 @@
       "Fax Number": "(928) 638-7797",
       "Latitude": 36.3551644,
       "Longitude": -112.6612088,
-      "Location": { "coordinates": [-112.6612088, 36.3551644], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -112.6612088,
+          36.3551644
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "para",
@@ -1415,7 +2076,13 @@
       "Fax Number": "(435) 688-3388",
       "Latitude": 37.0828739,
       "Longitude": -113.576777,
-      "Location": { "coordinates": [-113.576777, 37.0828739], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -113.576777,
+          37.0828739
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GRPO",
@@ -1428,7 +2095,13 @@
       "Fax Number": "(218) 475-0174",
       "Latitude": 47.95819,
       "Longitude": -89.6895741,
-      "Location": { "coordinates": [-89.6895741, 47.95819], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -89.6895741,
+          47.95819
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GRTE",
@@ -1441,7 +2114,13 @@
       "Fax Number": "(307) 739-3438",
       "Latitude": 43.729398,
       "Longitude": -110.709055,
-      "Location": { "coordinates": [-110.709055, 43.729398], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.709055,
+          43.729398
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GRKO",
@@ -1454,7 +2133,13 @@
       "Fax Number": "(406) 846-3962",
       "Latitude": 46.407891,
       "Longitude": -112.735579,
-      "Location": { "coordinates": [-112.735579, 46.407891], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -112.735579,
+          46.407891
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GRBA",
@@ -1467,7 +2152,13 @@
       "Fax Number": "(775) 234-7269",
       "Latitude": 38.9295007,
       "Longitude": -114.2628251,
-      "Location": { "coordinates": [-114.2628251, 38.9295007], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -114.2628251,
+          38.9295007
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "grsa",
@@ -1480,7 +2171,13 @@
       "Fax Number": 0,
       "Latitude": 37.7275919,
       "Longitude": -105.6412527,
-      "Location": { "coordinates": [-105.6412527, 37.7275919], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.6412527,
+          37.7275919
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GRSM",
@@ -1493,7 +2190,13 @@
       "Fax Number": 0,
       "Latitude": 35.691031,
       "Longitude": -83.536198,
-      "Location": { "coordinates": [-83.536198, 35.691031], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -83.536198,
+          35.691031
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GREE",
@@ -1506,7 +2209,13 @@
       "Fax Number": "(301) 344-3736",
       "Latitude": 38.995757,
       "Longitude": -76.895521,
-      "Location": { "coordinates": [-76.895521, 38.995757], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.895521,
+          38.995757
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GUMO",
@@ -1519,7 +2228,13 @@
       "Fax Number": "(915) 828-3269",
       "Latitude": 31.903912,
       "Longitude": -104.868813,
-      "Location": { "coordinates": [-104.868813, 31.903912], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -104.868813,
+          31.903912
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "GUCO",
@@ -1532,7 +2247,13 @@
       "Fax Number": "(336) 282-2296",
       "Latitude": 36.1312015,
       "Longitude": -79.8488024,
-      "Location": { "coordinates": [-79.8488024, 36.1312015], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -79.8488024,
+          36.1312015
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "guis",
@@ -1545,7 +2266,13 @@
       "Fax Number": "(850) 932-9654",
       "Latitude": 30.393904,
       "Longitude": -87.0388,
-      "Location": { "coordinates": [-87.0388, 30.393904], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -87.0388,
+          30.393904
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HAFO",
@@ -1558,7 +2285,13 @@
       "Fax Number": "(208) 837-4857",
       "Latitude": 42.7816632,
       "Longitude": -114.9521998,
-      "Location": { "coordinates": [-114.9521998, 42.7816632], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -114.9521998,
+          42.7816632
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "hale",
@@ -1571,7 +2304,13 @@
       "Fax Number": 0,
       "Latitude": 20.856944,
       "Longitude": -156.313056,
-      "Location": { "coordinates": [-156.313056, 20.856944], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -156.313056,
+          20.856944
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HAGR",
@@ -1584,7 +2323,13 @@
       "Fax Number": "(212) 932-9631",
       "Latitude": 40.7073139,
       "Longitude": -74.010262,
-      "Location": { "coordinates": [-74.010262, 40.7073139], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.010262,
+          40.7073139
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HAMP",
@@ -1597,7 +2342,13 @@
       "Fax Number": "(410) 823-8394",
       "Latitude": 39.41789,
       "Longitude": -76.590414,
-      "Location": { "coordinates": [-76.590414, 39.41789], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.590414,
+          39.41789
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HAHA",
@@ -1610,7 +2361,13 @@
       "Fax Number": "(301) 763-1389",
       "Latitude": 38.71312,
       "Longitude": -77.025503,
-      "Location": { "coordinates": [-77.025503, 38.71312], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.025503,
+          38.71312
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HAFE",
@@ -1623,7 +2380,13 @@
       "Fax Number": "(304) 535-6244",
       "Latitude": 39.325379,
       "Longitude": -77.738882,
-      "Location": { "coordinates": [-77.738882, 39.325379], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.738882,
+          39.325379
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HSTR",
@@ -1636,7 +2399,13 @@
       "Fax Number": "(816) 254-4491",
       "Latitude": 39.0936,
       "Longitude": -94.415252,
-      "Location": { "coordinates": [-94.415252, 39.0936], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -94.415252,
+          39.0936
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "havo",
@@ -1649,7 +2418,13 @@
       "Fax Number": "(808) 985-6004",
       "Latitude": 19.299004,
       "Longitude": -155.3569573,
-      "Location": { "coordinates": [-155.3569573, 19.299004], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -155.3569573,
+          19.299004
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HEHO",
@@ -1662,7 +2437,13 @@
       "Fax Number": "(319) 643-7864",
       "Latitude": 41.671985,
       "Longitude": -91.346589,
-      "Location": { "coordinates": [-91.346589, 41.671985], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -91.346589,
+          41.671985
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "pima",
@@ -1675,7 +2456,13 @@
       "Fax Number": 0,
       "Latitude": 33.1889835,
       "Longitude": -111.9224398,
-      "Location": { "coordinates": [-111.9224398, 33.1889835], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.9224398,
+          33.1889835
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HOFR",
@@ -1688,7 +2475,13 @@
       "Fax Number": 0,
       "Latitude": 41.77043,
       "Longitude": -73.932905,
-      "Location": { "coordinates": [-73.932905, 41.77043], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.932905,
+          41.77043
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HOME",
@@ -1701,7 +2494,13 @@
       "Fax Number": "(402) 228-4231",
       "Latitude": 40.2917267,
       "Longitude": -96.8348525,
-      "Location": { "coordinates": [-96.8348525, 40.2917267], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -96.8348525,
+          40.2917267
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HOCU",
@@ -1714,7 +2513,13 @@
       "Fax Number": "(740) 774-1140",
       "Latitude": 39.3738532,
       "Longitude": -83.0073082,
-      "Location": { "coordinates": [-83.0073082, 39.3738532], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -83.0073082,
+          39.3738532
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "HOFU",
@@ -1727,7 +2532,13 @@
       "Fax Number": "(610) 582-2768",
       "Latitude": 40.2081934,
       "Longitude": -75.7735281,
-      "Location": { "coordinates": [-75.7735281, 40.2081934], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.7735281,
+          40.2081934
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "hobe",
@@ -1740,7 +2551,13 @@
       "Fax Number": "(256) 329-9905",
       "Latitude": 33.015464,
       "Longitude": -85.687928,
-      "Location": { "coordinates": [-85.687928, 33.015464], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -85.687928,
+          33.015464
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "hosp",
@@ -1753,7 +2570,13 @@
       "Fax Number": "(501) 624-3458",
       "Latitude": 34.5116392,
       "Longitude": -93.0539835,
-      "Location": { "coordinates": [-93.0539835, 34.5116392], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -93.0539835,
+          34.5116392
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "hove",
@@ -1766,7 +2589,13 @@
       "Fax Number": "(970) 562-4283",
       "Latitude": 37.548179,
       "Longitude": -108.548955,
-      "Location": { "coordinates": [-108.548955, 37.548179], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -108.548955,
+          37.548179
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "hutr",
@@ -1779,7 +2608,13 @@
       "Fax Number": "(928) 755-3405",
       "Latitude": 35.667514,
       "Longitude": -109.321948,
-      "Location": { "coordinates": [-109.321948, 35.667514], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -109.321948,
+          35.667514
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "iatr",
@@ -1792,7 +2627,13 @@
       "Fax Number": "(608) 441-5606",
       "Latitude": 43.049044,
       "Longitude": -89.491477,
-      "Location": { "coordinates": [-89.491477, 43.049044], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -89.491477,
+          43.049044
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "INDE",
@@ -1805,7 +2646,13 @@
       "Fax Number": "(215) 861-4950",
       "Latitude": 39.9480134,
       "Longitude": -75.1461357,
-      "Location": { "coordinates": [-75.1461357, 39.9480134], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.1461357,
+          39.9480134
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "INDU",
@@ -1818,7 +2665,13 @@
       "Fax Number": 0,
       "Latitude": 41.6306,
       "Longitude": -87.086864,
-      "Location": { "coordinates": [-87.086864, 41.6306], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -87.086864,
+          41.6306
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "inup",
@@ -1831,7 +2684,13 @@
       "Fax Number": 0,
       "Latitude": 71.2983988,
       "Longitude": -156.7540884,
-      "Location": { "coordinates": [-156.7540884, 71.2983988], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -156.7540884,
+          71.2983988
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ISRO",
@@ -1844,7 +2703,13 @@
       "Fax Number": "(906) 482-8753",
       "Latitude": 47.1225521,
       "Longitude": -88.5645333,
-      "Location": { "coordinates": [-88.5645333, 47.1225521], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -88.5645333,
+          47.1225521
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JAGA",
@@ -1857,7 +2722,13 @@
       "Fax Number": "(440) 974-2045",
       "Latitude": 41.664495,
       "Longitude": -81.35085,
-      "Location": { "coordinates": [-81.35085, 41.664495], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.35085,
+          41.664495
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JELA",
@@ -1870,7 +2741,13 @@
       "Fax Number": "(504) 589-3851",
       "Latitude": 29.955125,
       "Longitude": -90.064502,
-      "Location": { "coordinates": [-90.064502, 29.955125], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -90.064502,
+          29.955125
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JEFF",
@@ -1883,7 +2760,13 @@
       "Fax Number": 0,
       "Latitude": 38.624901,
       "Longitude": -90.186317,
-      "Location": { "coordinates": [-90.186317, 38.624901], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -90.186317,
+          38.624901
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JECA",
@@ -1896,7 +2779,13 @@
       "Fax Number": "(605) 673-8301",
       "Latitude": 43.764308,
       "Longitude": -103.607462,
-      "Location": { "coordinates": [-103.607462, 43.764308], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -103.607462,
+          43.764308
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "jica",
@@ -1909,7 +2798,13 @@
       "Fax Number": "(229) 824-3441",
       "Latitude": 32.0367522,
       "Longitude": -84.3934827,
-      "Location": { "coordinates": [-84.3934827, 32.0367522], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -84.3934827,
+          32.0367522
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JODA",
@@ -1922,7 +2817,13 @@
       "Fax Number": "(541) 987-2336",
       "Latitude": 44.653496,
       "Longitude": -119.650654,
-      "Location": { "coordinates": [-119.650654, 44.653496], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -119.650654,
+          44.653496
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JOFI",
@@ -1935,7 +2836,13 @@
       "Fax Number": 0,
       "Latitude": 42.3460692,
       "Longitude": -71.1244352,
-      "Location": { "coordinates": [-71.1244352, 42.3460692], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.1244352,
+          42.3460692
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "jomu",
@@ -1948,7 +2855,13 @@
       "Fax Number": "(925) 228-8192",
       "Latitude": 37.9921651,
       "Longitude": -122.130977,
-      "Location": { "coordinates": [-122.130977, 37.9921651], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.130977,
+          37.9921651
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JOFL",
@@ -1961,7 +2874,13 @@
       "Fax Number": "(814) 495-7463",
       "Latitude": 40.3508419,
       "Longitude": -78.7721602,
-      "Location": { "coordinates": [-78.7721602, 40.3508419], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -78.7721602,
+          40.3508419
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "jotr",
@@ -1974,7 +2893,13 @@
       "Fax Number": "(760) 367-6392",
       "Latitude": 34.129523,
       "Longitude": -116.036937,
-      "Location": { "coordinates": [-116.036937, 34.129523], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -116.036937,
+          34.129523
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "juba",
@@ -1987,7 +2912,13 @@
       "Fax Number": "(510) 817-1505",
       "Latitude": 37.800356,
       "Longitude": -122.266384,
-      "Location": { "coordinates": [-122.266384, 37.800356], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.266384,
+          37.800356
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "kala",
@@ -2000,7 +2931,13 @@
       "Fax Number": "(808) 567-6729",
       "Latitude": 21.189792,
       "Longitude": -156.980138,
-      "Location": { "coordinates": [-156.980138, 21.189792], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -156.980138,
+          21.189792
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "kaho",
@@ -2013,7 +2950,13 @@
       "Fax Number": "(808) 329-2597",
       "Latitude": 19.689206,
       "Longitude": -156.021329,
-      "Location": { "coordinates": [-156.021329, 19.689206], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -156.021329,
+          19.689206
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "katm",
@@ -2026,7 +2969,13 @@
       "Fax Number": "(907) 246-2116",
       "Latitude": 58.756222,
       "Longitude": -156.51724,
-      "Location": { "coordinates": [-156.51724, 58.756222], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -156.51724,
+          58.756222
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "kefj",
@@ -2039,7 +2988,13 @@
       "Fax Number": "(907) 422-0571",
       "Latitude": 59.8463648,
       "Longitude": -150.1844857,
-      "Location": { "coordinates": [-150.1844857, 59.8463648], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -150.1844857,
+          59.8463648
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "kemo",
@@ -2052,7 +3007,13 @@
       "Fax Number": "(770) 528-8398",
       "Latitude": 33.9830896,
       "Longitude": -84.5780814,
-      "Location": { "coordinates": [-84.5780814, 33.9830896], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -84.5780814,
+          33.9830896
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "KEWE",
@@ -2065,7 +3026,13 @@
       "Fax Number": "(906) 337-3169",
       "Latitude": 47.2423702,
       "Longitude": -88.4480218,
-      "Location": { "coordinates": [-88.4480218, 47.2423702], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -88.4480218,
+          47.2423702
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "KIMO",
@@ -2078,7 +3045,13 @@
       "Fax Number": "(864) 936-9897",
       "Latitude": 35.078017,
       "Longitude": -81.395068,
-      "Location": { "coordinates": [-81.395068, 35.078017], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.395068,
+          35.078017
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "klse",
@@ -2091,7 +3064,13 @@
       "Fax Number": "(206) 381-0664",
       "Latitude": 47.5993181,
       "Longitude": -122.3318109,
-      "Location": { "coordinates": [-122.3318109, 47.5993181], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.3318109,
+          47.5993181
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "klgo",
@@ -2104,7 +3083,13 @@
       "Fax Number": "(907) 983-9249",
       "Latitude": 59.54944,
       "Longitude": -135.269027,
-      "Location": { "coordinates": [-135.269027, 59.54944], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -135.269027,
+          59.54944
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "KNRI",
@@ -2117,7 +3102,13 @@
       "Fax Number": 0,
       "Latitude": 47.4003132,
       "Longitude": -101.4864866,
-      "Location": { "coordinates": [-101.4864866, 47.4003132], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -101.4864866,
+          47.4003132
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "kova",
@@ -2130,7 +3121,13 @@
       "Fax Number": "(907) 442-8316",
       "Latitude": 67.146678,
       "Longitude": -161.292928,
-      "Location": { "coordinates": [-161.292928, 67.146678], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -161.292928,
+          67.146678
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "lacl",
@@ -2143,7 +3140,13 @@
       "Fax Number": 0,
       "Latitude": 61.2173565,
       "Longitude": -149.886172,
-      "Location": { "coordinates": [-149.886172, 61.2173565], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -149.886172,
+          61.2173565
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "lame",
@@ -2156,7 +3159,13 @@
       "Fax Number": "(702) 293-8936",
       "Latitude": 35.9764797,
       "Longitude": -114.8385611,
-      "Location": { "coordinates": [-114.8385611, 35.9764797], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -114.8385611,
+          35.9764797
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "lavo",
@@ -2169,7 +3178,13 @@
       "Fax Number": "(530) 595-3262",
       "Latitude": 40.5093134,
       "Longitude": -121.4330998,
-      "Location": { "coordinates": [-121.4330998, 40.5093134], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -121.4330998,
+          40.5093134
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "labe",
@@ -2182,7 +3197,13 @@
       "Fax Number": "(530) 667-2737",
       "Latitude": 41.873101,
       "Longitude": -121.519764,
-      "Location": { "coordinates": [-121.519764, 41.873101], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -121.519764,
+          41.873101
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LECL",
@@ -2195,7 +3216,13 @@
       "Fax Number": "(402) 661-1805",
       "Latitude": 41.264613,
       "Longitude": -95.924517,
-      "Location": { "coordinates": [-95.924517, 41.264613], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -95.924517,
+          41.264613
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LEWI",
@@ -2208,7 +3235,13 @@
       "Fax Number": "(503) 861-2585",
       "Latitude": 46.1370048,
       "Longitude": -123.8798795,
-      "Location": { "coordinates": [-123.8798795, 46.1370048], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -123.8798795,
+          46.1370048
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LIBO",
@@ -2221,7 +3254,13 @@
       "Fax Number": "(812) 937-9929",
       "Latitude": 38.113702,
       "Longitude": -86.999079,
-      "Location": { "coordinates": [-86.999079, 38.113702], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -86.999079,
+          38.113702
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LIHO",
@@ -2234,7 +3273,13 @@
       "Fax Number": "(217) 492-4673",
       "Latitude": 39.7981317,
       "Longitude": -89.6451345,
-      "Location": { "coordinates": [-89.6451345, 39.7981317], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -89.6451345,
+          39.7981317
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LIBI",
@@ -2247,7 +3292,13 @@
       "Fax Number": "(406) 638-2623",
       "Latitude": 45.5605145,
       "Longitude": -107.4271624,
-      "Location": { "coordinates": [-107.4271624, 45.5605145], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -107.4271624,
+          45.5605145
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "liri",
@@ -2260,7 +3311,13 @@
       "Fax Number": "(256) 997-9129",
       "Latitude": 34.3807297,
       "Longitude": -85.6315729,
-      "Location": { "coordinates": [-85.6315729, 34.3807297], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -85.6315729,
+          34.3807297
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "chsc",
@@ -2273,7 +3330,13 @@
       "Fax Number": "(501) 396-3001",
       "Latitude": 34.738773,
       "Longitude": -92.29732,
-      "Location": { "coordinates": [-92.29732, 34.738773], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -92.29732,
+          34.738773
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LONG",
@@ -2286,7 +3349,13 @@
       "Fax Number": "(617) 497-8718",
       "Latitude": 42.376989,
       "Longitude": -71.12637,
-      "Location": { "coordinates": [-71.12637, 42.376989], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.12637,
+          42.376989
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LOWE",
@@ -2299,7 +3368,13 @@
       "Fax Number": "(978) 970-5085",
       "Latitude": 42.6471941,
       "Longitude": -71.3097974,
-      "Location": { "coordinates": [-71.3097974, 42.6471941], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.3097974,
+          42.6471941
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LOEA",
@@ -2312,7 +3387,13 @@
       "Fax Number": "(212) 431-0402",
       "Latitude": 40.740142,
       "Longitude": -73.986736,
-      "Location": { "coordinates": [-73.986736, 40.740142], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.986736,
+          40.740142
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "LYJO",
@@ -2325,7 +3406,13 @@
       "Fax Number": 0,
       "Latitude": 30.285392,
       "Longitude": -98.398629,
-      "Location": { "coordinates": [-98.398629, 30.285392], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -98.398629,
+          30.285392
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MAAC",
@@ -2338,7 +3425,13 @@
       "Fax Number": "(207) 288-8813",
       "Latitude": 44.3385559,
       "Longitude": -68.2733346,
-      "Location": { "coordinates": [-68.2733346, 44.3385559], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -68.2733346,
+          44.3385559
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MACA",
@@ -2351,7 +3444,13 @@
       "Fax Number": 0,
       "Latitude": 37.192189,
       "Longitude": -86.121529,
-      "Location": { "coordinates": [-86.121529, 37.192189], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -86.121529,
+          37.192189
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MANA",
@@ -2364,7 +3463,13 @@
       "Fax Number": "(703) 754-1107",
       "Latitude": 38.805198,
       "Longitude": -77.571996,
-      "Location": { "coordinates": [-77.571996, 38.805198], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.571996,
+          38.805198
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "manz",
@@ -2377,7 +3482,13 @@
       "Fax Number": "(760) 878-2949",
       "Latitude": 36.7284743,
       "Longitude": -118.1462983,
-      "Location": { "coordinates": [-118.1462983, 36.7284743], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -118.1462983,
+          36.7284743
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MABI",
@@ -2390,7 +3501,13 @@
       "Fax Number": "(802) 457-3405",
       "Latitude": 43.6285354,
       "Longitude": -72.5183519,
-      "Location": { "coordinates": [-72.5183519, 43.6285354], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -72.5183519,
+          43.6285354
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "malu",
@@ -2403,7 +3520,13 @@
       "Fax Number": "(404) 730-3112",
       "Latitude": 33.7555614,
       "Longitude": -84.3734823,
-      "Location": { "coordinates": [-84.3734823, 33.7555614], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -84.3734823,
+          33.7555614
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MAVA",
@@ -2416,7 +3539,13 @@
       "Fax Number": "(518) 758-6986",
       "Latitude": 42.3656798,
       "Longitude": -73.704337,
-      "Location": { "coordinates": [-73.704337, 42.3656798], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.704337,
+          42.3656798
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "meve",
@@ -2429,7 +3558,13 @@
       "Fax Number": "(970) 529-4637",
       "Latitude": 37.16748,
       "Longitude": -108.525539,
-      "Location": { "coordinates": [-108.525539, 37.16748], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -108.525539,
+          37.16748
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MIIN",
@@ -2442,7 +3577,13 @@
       "Fax Number": "(208) 837-4857",
       "Latitude": 42.812124,
       "Longitude": -114.898669,
-      "Location": { "coordinates": [-114.898669, 42.812124], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -114.898669,
+          42.812124
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MIMA",
@@ -2455,7 +3596,13 @@
       "Fax Number": "(978) 318-7800",
       "Latitude": 42.471166,
       "Longitude": -71.35372,
-      "Location": { "coordinates": [-71.35372, 42.471166], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.35372,
+          42.471166
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MIMI",
@@ -2468,7 +3615,13 @@
       "Fax Number": "(605) 433-5558",
       "Latitude": 43.816298,
       "Longitude": -101.899697,
-      "Location": { "coordinates": [-101.899697, 43.816298], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -101.899697,
+          43.816298
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MISS",
@@ -2481,7 +3634,13 @@
       "Fax Number": "(651) 290-3214",
       "Latitude": 44.9455077,
       "Longitude": -93.0898974,
-      "Location": { "coordinates": [-93.0898974, 44.9455077], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -93.0898974,
+          44.9455077
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MNRR",
@@ -2494,7 +3653,13 @@
       "Fax Number": "(605) 665-4183",
       "Latitude": 42.868919,
       "Longitude": -97.384615,
-      "Location": { "coordinates": [-97.384615, 42.868919], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -97.384615,
+          42.868919
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "moja",
@@ -2507,7 +3672,13 @@
       "Fax Number": "(760) 252-6174",
       "Latitude": 34.871394,
       "Longitude": -117.020322,
-      "Location": { "coordinates": [-117.020322, 34.871394], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -117.020322,
+          34.871394
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MONO",
@@ -2520,7 +3691,13 @@
       "Fax Number": "(301) 662-3420",
       "Latitude": 39.3665648,
       "Longitude": -77.388428,
-      "Location": { "coordinates": [-77.388428, 39.3665648], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.388428,
+          39.3665648
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "moca",
@@ -2533,7 +3710,13 @@
       "Fax Number": "(928) 567-3597",
       "Latitude": 34.6089399,
       "Longitude": -111.8412083,
-      "Location": { "coordinates": [-111.8412083, 34.6089399], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.8412083,
+          34.6089399
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MOCR",
@@ -2546,7 +3729,13 @@
       "Fax Number": "(910) 283-5351",
       "Latitude": 34.458784,
       "Longitude": -78.107428,
-      "Location": { "coordinates": [-78.107428, 34.458784], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -78.107428,
+          34.458784
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MOPI",
@@ -2559,7 +3748,13 @@
       "Fax Number": "(801) 741-1102",
       "Latitude": 40.7620689,
       "Longitude": -111.888922,
-      "Location": { "coordinates": [-111.888922, 40.7620689], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.888922,
+          40.7620689
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MORR",
@@ -2572,7 +3767,13 @@
       "Fax Number": "(973) 285-5021",
       "Latitude": 40.7969641,
       "Longitude": -74.4659163,
-      "Location": { "coordinates": [-74.4659163, 40.7969641], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.4659163,
+          40.7969641
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MORA",
@@ -2585,7 +3786,13 @@
       "Fax Number": "(360) 569-2170",
       "Latitude": 46.7558282,
       "Longitude": -122.1207998,
-      "Location": { "coordinates": [-122.1207998, 46.7558282], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.1207998,
+          46.7558282
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "MORU",
@@ -2598,7 +3805,13 @@
       "Fax Number": "(605) 574-2307",
       "Latitude": 43.875419,
       "Longitude": -103.4531437,
-      "Location": { "coordinates": [-103.4531437, 43.875419], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -103.4531437,
+          43.875419
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "muwo",
@@ -2611,7 +3824,13 @@
       "Fax Number": "(415) 389-6957",
       "Latitude": 37.8960372,
       "Longitude": -122.580256,
-      "Location": { "coordinates": [-122.580256, 37.8960372], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.580256,
+          37.8960372
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NATT",
@@ -2624,7 +3843,13 @@
       "Fax Number": "(662) 680-4034",
       "Latitude": 34.307545,
       "Longitude": -88.720974,
-      "Location": { "coordinates": [-88.720974, 34.307545], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -88.720974,
+          34.307545
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "natr",
@@ -2637,7 +3862,13 @@
       "Fax Number": "(662) 680-4034",
       "Latitude": 34.307545,
       "Longitude": -88.720974,
-      "Location": { "coordinates": [-88.720974, 34.307545], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -88.720974,
+          34.307545
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NACE",
@@ -2650,7 +3881,13 @@
       "Fax Number": "(202) 690-0862",
       "Latitude": 38.8681082,
       "Longitude": -76.9953624,
-      "Location": { "coordinates": [-76.9953624, 38.8681082], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.9953624,
+          38.8681082
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "npsa",
@@ -2663,7 +3900,13 @@
       "Fax Number": "(684) 699-3986",
       "Latitude": -14.29129,
       "Longitude": -170.696426,
-      "Location": { "coordinates": [-170.696426, -14.29129], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -170.696426,
+          -14.29129
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NPNH",
@@ -2676,7 +3919,13 @@
       "Fax Number": "(212) 668-2375",
       "Latitude": 40.7073139,
       "Longitude": -74.010262,
-      "Location": { "coordinates": [-74.010262, 40.7073139], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.010262,
+          40.7073139
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NABR",
@@ -2689,7 +3938,13 @@
       "Fax Number": "(435) 692-1111",
       "Latitude": 37.593888,
       "Longitude": -110.009234,
-      "Location": { "coordinates": [-110.009234, 37.593888], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.009234,
+          37.593888
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "nava",
@@ -2702,7 +3957,13 @@
       "Fax Number": "(928) 672-2703",
       "Latitude": 36.40425,
       "Longitude": -110.910901,
-      "Location": { "coordinates": [-110.910901, 36.40425], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.910901,
+          36.40425
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NEBE",
@@ -2715,7 +3976,13 @@
       "Fax Number": "(508) 984-1250",
       "Latitude": 41.635758,
       "Longitude": -70.924046,
-      "Location": { "coordinates": [-70.924046, 41.635758], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -70.924046,
+          41.635758
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "JAZZ",
@@ -2728,7 +3995,13 @@
       "Fax Number": "(504) 589-4845",
       "Latitude": 29.955125,
       "Longitude": -90.064502,
-      "Location": { "coordinates": [-90.064502, 29.955125], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -90.064502,
+          29.955125
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NERI",
@@ -2741,7 +4014,13 @@
       "Fax Number": "(304) 465-0591",
       "Latitude": 37.899209,
       "Longitude": -81.157499,
-      "Location": { "coordinates": [-81.157499, 37.899209], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.157499,
+          37.899209
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NEPE",
@@ -2754,7 +4033,13 @@
       "Fax Number": "(208) 843-7003",
       "Latitude": 46.416175,
       "Longitude": -116.797523,
-      "Location": { "coordinates": [-116.797523, 46.416175], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -116.797523,
+          46.416175
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NICO",
@@ -2767,7 +4052,13 @@
       "Fax Number": "(785) 839-4325",
       "Latitude": 39.393117,
       "Longitude": -99.617178,
-      "Location": { "coordinates": [-99.617178, 39.393117], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -99.617178,
+          39.393117
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NISI",
@@ -2780,7 +4071,13 @@
       "Fax Number": "(864) 543-2058",
       "Latitude": 34.1433109,
       "Longitude": -82.013465,
-      "Location": { "coordinates": [-82.013465, 34.1433109], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -82.013465,
+          34.1433109
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NIOB",
@@ -2793,7 +4090,13 @@
       "Fax Number": "(402) 376-1949",
       "Latitude": 42.8129207,
       "Longitude": -99.9294552,
-      "Location": { "coordinates": [-99.9294552, 42.8129207], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -99.9294552,
+          42.8129207
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "noat",
@@ -2806,7 +4109,13 @@
       "Fax Number": "(907) 442-8316",
       "Latitude": 66.898684,
       "Longitude": -162.599068,
-      "Location": { "coordinates": [-162.599068, 66.898684], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -162.599068,
+          66.898684
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "lach",
@@ -2819,7 +4128,13 @@
       "Fax Number": "(360) 856-1934",
       "Latitude": 48.5109531,
       "Longitude": -122.2275204,
-      "Location": { "coordinates": [-122.2275204, 48.5109531], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.2275204,
+          48.5109531
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NOCO",
@@ -2832,7 +4147,13 @@
       "Fax Number": "(608) 441-5606",
       "Latitude": 43.049044,
       "Longitude": -89.491477,
-      "Location": { "coordinates": [-89.491477, 43.049044], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -89.491477,
+          43.049044
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "NORG",
@@ -2845,7 +4166,13 @@
       "Fax Number": 0,
       "Latitude": 35.98847,
       "Longitude": -106.087949,
-      "Location": { "coordinates": [-106.087949, 35.98847], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -106.087949,
+          35.98847
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "OBED",
@@ -2858,7 +4185,13 @@
       "Fax Number": "(423) 346-3362",
       "Latitude": 36.0761546,
       "Longitude": -84.6505281,
-      "Location": { "coordinates": [-84.6505281, 36.0761546], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -84.6505281,
+          36.0761546
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ocmu",
@@ -2871,7 +4204,13 @@
       "Fax Number": "(478) 752-8259",
       "Latitude": 32.8483695,
       "Longitude": -83.6034314,
-      "Location": { "coordinates": [-83.6034314, 32.8483695], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -83.6034314,
+          32.8483695
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "OKCI",
@@ -2884,7 +4223,13 @@
       "Fax Number": "(405) 609-8863",
       "Latitude": 35.47,
       "Longitude": -97.52,
-      "Location": { "coordinates": [-97.52, 35.47], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -97.52,
+          35.47
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "olsp",
@@ -2897,7 +4242,13 @@
       "Fax Number": "(505) 986-5214",
       "Latitude": 35.689361,
       "Longitude": -105.933751,
-      "Location": { "coordinates": [-105.933751, 35.689361], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.933751,
+          35.689361
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "OREG",
@@ -2910,7 +4261,13 @@
       "Fax Number": "(801) 741-1102",
       "Latitude": 40.7620689,
       "Longitude": -111.888922,
-      "Location": { "coordinates": [-111.888922, 40.7620689], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.888922,
+          40.7620689
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "orpi",
@@ -2923,7 +4280,13 @@
       "Fax Number": 0,
       "Latitude": 32.229742,
       "Longitude": -112.883295,
-      "Location": { "coordinates": [-112.883295, 32.229742], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -112.883295,
+          32.229742
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "OVVI",
@@ -2936,7 +4299,13 @@
       "Fax Number": "(864) 936-3477",
       "Latitude": 35.078017,
       "Longitude": -81.395068,
-      "Location": { "coordinates": [-81.395068, 35.078017], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.395068,
+          35.078017
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "OXHI",
@@ -2949,7 +4318,13 @@
       "Fax Number": "(301) 763-1066",
       "Latitude": 38.8681082,
       "Longitude": -76.9953624,
-      "Location": { "coordinates": [-76.9953624, 38.8681082], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.9953624,
+          38.8681082
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "OZAR",
@@ -2962,7 +4337,13 @@
       "Fax Number": "(573) 323-4140",
       "Latitude": 36.9202916,
       "Longitude": -90.9045238,
-      "Location": { "coordinates": [-90.9045238, 36.9202916], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -90.9045238,
+          36.9202916
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "PAIS",
@@ -2975,7 +4356,13 @@
       "Fax Number": "(361) 949-9951",
       "Latitude": 27.577099,
       "Longitude": -97.230383,
-      "Location": { "coordinates": [-97.230383, 27.577099], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -97.230383,
+          27.577099
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "PAAL",
@@ -2988,7 +4375,13 @@
       "Fax Number": "(956) 541-6356",
       "Latitude": 25.927065,
       "Longitude": -97.511873,
-      "Location": { "coordinates": [-97.511873, 25.927065], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -97.511873,
+          25.927065
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "usar",
@@ -3001,7 +4394,13 @@
       "Fax Number": "(808) 483-8608",
       "Latitude": 21.366479,
       "Longitude": -157.93779,
-      "Location": { "coordinates": [-157.93779, 21.366479], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -157.93779,
+          21.366479
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "peri",
@@ -3014,7 +4413,13 @@
       "Fax Number": "(479) 451-0219",
       "Latitude": 36.442602,
       "Longitude": -94.025976,
-      "Location": { "coordinates": [-94.025976, 36.442602], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -94.025976,
+          36.442602
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "PECO",
@@ -3027,7 +4432,13 @@
       "Fax Number": "(505) 757-7207",
       "Latitude": 35.548124,
       "Longitude": -105.682312,
-      "Location": { "coordinates": [-105.682312, 35.548124], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.682312,
+          35.548124
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "PEVI",
@@ -3040,7 +4451,13 @@
       "Fax Number": "(419) 285-2516",
       "Latitude": 41.654125,
       "Longitude": -82.811077,
-      "Location": { "coordinates": [-82.811077, 41.654125], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -82.811077,
+          41.654125
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "pefo",
@@ -3053,7 +4470,13 @@
       "Fax Number": "(928) 524-3567",
       "Latitude": 34.90999,
       "Longitude": -109.806792,
-      "Location": { "coordinates": [-109.806792, 34.90999], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -109.806792,
+          34.90999
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "PETR",
@@ -3066,7 +4489,13 @@
       "Fax Number": "(505) 899-0207",
       "Latitude": 35.161624,
       "Longitude": -106.719073,
-      "Location": { "coordinates": [-106.719073, 35.161624], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -106.719073,
+          35.161624
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "PIRO",
@@ -3079,7 +4508,13 @@
       "Fax Number": "(906) 387-4025",
       "Latitude": 46.5178371,
       "Longitude": -86.4090096,
-      "Location": { "coordinates": [-86.4090096, 46.5178371], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -86.4090096,
+          46.5178371
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "PINE",
@@ -3092,7 +4527,13 @@
       "Fax Number": "(609) 894-7330",
       "Latitude": 39.9654592,
       "Longitude": -74.6287556,
-      "Location": { "coordinates": [-74.6287556, 39.9654592], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.6287556,
+          39.9654592
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "pinn",
@@ -3105,7 +4546,13 @@
       "Fax Number": "(831) 389-4489",
       "Latitude": 36.4869826,
       "Longitude": -121.2135701,
-      "Location": { "coordinates": [-121.2135701, 36.4869826], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -121.2135701,
+          36.4869826
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "pisp",
@@ -3118,7 +4565,13 @@
       "Fax Number": 0,
       "Latitude": 36.862928,
       "Longitude": -112.740538,
-      "Location": { "coordinates": [-112.740538, 36.862928], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -112.740538,
+          36.862928
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "pore",
@@ -3131,7 +4584,13 @@
       "Fax Number": "(415) 663-8132",
       "Latitude": 38.04195,
       "Longitude": -122.7888848,
-      "Location": { "coordinates": [-122.7888848, 38.04195], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.7888848,
+          38.04195
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "poex",
@@ -3144,7 +4603,13 @@
       "Fax Number": "(801) 741-1102",
       "Latitude": 40.7620689,
       "Longitude": -111.888922,
-      "Location": { "coordinates": [-111.888922, 40.7620689], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.888922,
+          40.7620689
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "poch",
@@ -3157,7 +4622,13 @@
       "Fax Number": "(925) 838-9471",
       "Latitude": 37.9921651,
       "Longitude": -122.130977,
-      "Location": { "coordinates": [-122.130977, 37.9921651], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.130977,
+          37.9921651
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "POHE",
@@ -3170,7 +4641,13 @@
       "Fax Number": 0,
       "Latitude": 39.342873,
       "Longitude": -77.483886,
-      "Location": { "coordinates": [-77.483886, 39.342873], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.483886,
+          39.342873
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "POPO",
@@ -3183,7 +4660,13 @@
       "Fax Number": 0,
       "Latitude": 32.63679,
       "Longitude": -91.405532,
-      "Location": { "coordinates": [-91.405532, 32.63679], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -91.405532,
+          32.63679
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "puho",
@@ -3196,7 +4679,13 @@
       "Fax Number": "(808) 328-8251",
       "Latitude": 19.4173278,
       "Longitude": -155.9080889,
-      "Location": { "coordinates": [-155.9080889, 19.4173278], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -155.9080889,
+          19.4173278
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "puhe",
@@ -3209,7 +4698,13 @@
       "Fax Number": "(808) 882-4610",
       "Latitude": 20.027026,
       "Longitude": -155.819965,
-      "Location": { "coordinates": [-155.819965, 20.027026], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -155.819965,
+          20.027026
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "RABR",
@@ -3222,7 +4717,13 @@
       "Fax Number": "(928) 608-6259",
       "Latitude": 36.894948,
       "Longitude": -111.473479,
-      "Location": { "coordinates": [-111.473479, 36.894948], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.473479,
+          36.894948
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "redw",
@@ -3235,7 +4736,13 @@
       "Fax Number": "(707) 464-1812",
       "Latitude": 41.753421,
       "Longitude": -124.194538,
-      "Location": { "coordinates": [-124.194538, 41.753421], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -124.194538,
+          41.753421
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "rigr",
@@ -3248,7 +4755,13 @@
       "Fax Number": "(432) 477-1175",
       "Latitude": 29.328389,
       "Longitude": -103.205948,
-      "Location": { "coordinates": [-103.205948, 29.328389], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -103.205948,
+          29.328389
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "romo",
@@ -3261,7 +4774,13 @@
       "Fax Number": 0,
       "Latitude": 40.3753949,
       "Longitude": -105.5059499,
-      "Location": { "coordinates": [-105.5059499, 40.3753949], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.5059499,
+          40.3753949
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ROWI",
@@ -3274,7 +4793,13 @@
       "Fax Number": "(401) 521-7239",
       "Latitude": 41.831347,
       "Longitude": -71.410749,
-      "Location": { "coordinates": [-71.410749, 41.831347], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.410749,
+          41.831347
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ROCA",
@@ -3287,7 +4812,13 @@
       "Fax Number": "(506) 752-6000",
       "Latitude": 44.858509,
       "Longitude": -66.984178,
-      "Location": { "coordinates": [-66.984178, 44.858509], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -66.984178,
+          44.858509
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "rori",
@@ -3300,7 +4831,13 @@
       "Fax Number": "(510) 232-5504",
       "Latitude": 37.9338362,
       "Longitude": -122.3442547,
-      "Location": { "coordinates": [-122.3442547, 37.9338362], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.3442547,
+          37.9338362
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ruca",
@@ -3313,7 +4850,13 @@
       "Fax Number": "(256) 495-9220",
       "Latitude": 34.9807721,
       "Longitude": -85.8063291,
-      "Location": { "coordinates": [-85.8063291, 34.9807721], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -85.8063291,
+          34.9807721
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SAHI",
@@ -3326,7 +4869,13 @@
       "Fax Number": "(516) 922-4792",
       "Latitude": 40.882588,
       "Longitude": -73.5053767,
-      "Location": { "coordinates": [-73.5053767, 40.882588], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.5053767,
+          40.882588
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "sagu",
@@ -3339,7 +4888,13 @@
       "Fax Number": "(520) 733-5183",
       "Latitude": 32.1792142,
       "Longitude": -110.738004,
-      "Location": { "coordinates": [-110.738004, 32.1792142], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.738004,
+          32.1792142
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SACR",
@@ -3352,7 +4907,13 @@
       "Fax Number": "(207) 288-8813",
       "Latitude": 44.3385559,
       "Longitude": -68.2733346,
-      "Location": { "coordinates": [-68.2733346, 44.3385559], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -68.2733346,
+          44.3385559
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "sacn",
@@ -3365,7 +4926,13 @@
       "Fax Number": "(715) 483-3288",
       "Latitude": 45.4171447,
       "Longitude": -92.6462101,
-      "Location": { "coordinates": [-92.6462101, 45.4171447], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -92.6462101,
+          45.4171447
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SAPA",
@@ -3378,7 +4945,13 @@
       "Fax Number": 0,
       "Latitude": 40.8933639,
       "Longitude": -73.8264656,
-      "Location": { "coordinates": [-73.8264656, 40.8933639], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.8264656,
+          40.8933639
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SAGA",
@@ -3391,7 +4964,13 @@
       "Fax Number": "(603) 675-2701",
       "Latitude": 43.49751,
       "Longitude": -72.373789,
-      "Location": { "coordinates": [-72.373789, 43.49751], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -72.373789,
+          43.49751
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SAMA",
@@ -3404,7 +4983,13 @@
       "Fax Number": "(978) 740-1685",
       "Latitude": 42.5217765,
       "Longitude": -70.8862569,
-      "Location": { "coordinates": [-70.8862569, 42.5217765], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -70.8862569,
+          42.5217765
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SAPU",
@@ -3417,7 +5002,13 @@
       "Fax Number": "(505) 847-2441",
       "Latitude": 34.520341,
       "Longitude": -106.241127,
-      "Location": { "coordinates": [-106.241127, 34.520341], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -106.241127,
+          34.520341
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "saan",
@@ -3430,7 +5021,13 @@
       "Fax Number": "(210) 534-1106",
       "Latitude": 29.381974,
       "Longitude": -98.482254,
-      "Location": { "coordinates": [-98.482254, 29.381974], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -98.482254,
+          29.381974
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "safr",
@@ -3443,7 +5040,13 @@
       "Fax Number": "(415) 556-1624",
       "Latitude": 37.804208,
       "Longitude": -122.431068,
-      "Location": { "coordinates": [-122.431068, 37.804208], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.431068,
+          37.804208
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SAJU",
@@ -3456,7 +5059,13 @@
       "Fax Number": "(787) 289-7972",
       "Latitude": 18.468075,
       "Longitude": -66.115186,
-      "Location": { "coordinates": [-66.115186, 18.468075], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -66.115186,
+          18.468075
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "sand",
@@ -3469,7 +5078,13 @@
       "Fax Number": "(719) 438-5410",
       "Latitude": 38.4838305,
       "Longitude": -102.7857891,
-      "Location": { "coordinates": [-102.7857891, 38.4838305], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -102.7857891,
+          38.4838305
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "safe",
@@ -3482,7 +5097,13 @@
       "Fax Number": "(505) 986-5214",
       "Latitude": 35.689361,
       "Longitude": -105.933751,
-      "Location": { "coordinates": [-105.933751, 35.689361], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.933751,
+          35.689361
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "samo",
@@ -3495,7 +5116,13 @@
       "Fax Number": "(805) 370-2350",
       "Latitude": 34.1859982,
       "Longitude": -118.8861188,
-      "Location": { "coordinates": [-118.8861188, 34.1859982], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -118.8861188,
+          34.1859982
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SARA",
@@ -3508,7 +5135,13 @@
       "Fax Number": "(518) 664-3349",
       "Latitude": 43.0189449,
       "Longitude": -73.6456328,
-      "Location": { "coordinates": [-73.6456328, 43.0189449], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.6456328,
+          43.0189449
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SAIR",
@@ -3521,7 +5154,13 @@
       "Fax Number": "(781) 231-7345",
       "Latitude": 42.468009,
       "Longitude": -71.008909,
-      "Location": { "coordinates": [-71.008909, 42.468009], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.008909,
+          42.468009
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SCBL",
@@ -3534,7 +5173,13 @@
       "Fax Number": "(308) 436-7611",
       "Latitude": 41.824167,
       "Longitude": -103.665,
-      "Location": { "coordinates": [-103.665, 41.824167], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -103.665,
+          41.824167
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "semo",
@@ -3547,7 +5192,13 @@
       "Fax Number": "(334) 877-1985",
       "Latitude": 32.268672,
       "Longitude": -86.717968,
-      "Location": { "coordinates": [-86.717968, 32.268672], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -86.717968,
+          32.268672
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "seki",
@@ -3560,7 +5211,13 @@
       "Fax Number": "(559) 565-3730",
       "Latitude": 36.491318,
       "Longitude": -118.825722,
-      "Location": { "coordinates": [-118.825722, 36.491318], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -118.825722,
+          36.491318
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SHIL",
@@ -3573,7 +5230,13 @@
       "Fax Number": "(731) 689-5450",
       "Latitude": 35.151883,
       "Longitude": -88.329943,
-      "Location": { "coordinates": [-88.329943, 35.151883], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -88.329943,
+          35.151883
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "sitk",
@@ -3586,7 +5249,13 @@
       "Fax Number": "(907) 747-5938",
       "Latitude": 57.0519805,
       "Longitude": -135.3315533,
-      "Location": { "coordinates": [-135.3315533, 57.0519805], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -135.3315533,
+          57.0519805
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SLBE",
@@ -3599,7 +5268,13 @@
       "Fax Number": "(231) 326-5382",
       "Latitude": 44.811405,
       "Longitude": -86.056252,
-      "Location": { "coordinates": [-86.056252, 44.811405], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -86.056252,
+          44.811405
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "SPAR",
@@ -3612,7 +5287,13 @@
       "Fax Number": "(413) 747-8062",
       "Latitude": 42.095995,
       "Longitude": -72.583279,
-      "Location": { "coordinates": [-72.583279, 42.095995], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -72.583279,
+          42.095995
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "STSP",
@@ -3625,7 +5306,13 @@
       "Fax Number": "(410) 263-2137",
       "Latitude": 38.971705,
       "Longitude": -76.483576,
-      "Location": { "coordinates": [-76.483576, 38.971705], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.483576,
+          38.971705
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "STLI",
@@ -3638,7 +5325,13 @@
       "Fax Number": "(212) 363-6304",
       "Latitude": 40.699067,
       "Longitude": -74.028522,
-      "Location": { "coordinates": [-74.028522, 40.699067], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.028522,
+          40.699067
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "STEA",
@@ -3651,7 +5344,13 @@
       "Fax Number": 0,
       "Latitude": 41.406345,
       "Longitude": -75.6654819,
-      "Location": { "coordinates": [-75.6654819, 41.406345], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.6654819,
+          41.406345
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "STRI",
@@ -3664,7 +5363,13 @@
       "Fax Number": "(615) 893-9508",
       "Latitude": 35.884486,
       "Longitude": -86.43472,
-      "Location": { "coordinates": [-86.43472, 35.884486], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -86.43472,
+          35.884486
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "sucr",
@@ -3677,7 +5382,13 @@
       "Fax Number": "(928) 714-0565",
       "Latitude": 35.238961,
       "Longitude": -111.570755,
-      "Location": { "coordinates": [-111.570755, 35.238961], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.570755,
+          35.238961
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "TAPR",
@@ -3690,7 +5401,13 @@
       "Fax Number": "(620) 273-6099",
       "Latitude": 38.4426255,
       "Longitude": -96.5730004,
-      "Location": { "coordinates": [-96.5730004, 38.4426255], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -96.5730004,
+          38.4426255
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "THKO",
@@ -3703,7 +5420,13 @@
       "Fax Number": "(215) 597-0321",
       "Latitude": 39.9480134,
       "Longitude": -75.1461357,
-      "Location": { "coordinates": [-75.1461357, 39.9480134], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.1461357,
+          39.9480134
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "THRB",
@@ -3716,7 +5439,13 @@
       "Fax Number": 0,
       "Latitude": 40.7387645,
       "Longitude": -73.988999,
-      "Location": { "coordinates": [-73.988999, 40.7387645], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.988999,
+          40.7387645
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "THRI",
@@ -3729,7 +5458,13 @@
       "Fax Number": "(716) 884-0330",
       "Latitude": 42.901478,
       "Longitude": -78.872416,
-      "Location": { "coordinates": [-78.872416, 42.901478], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -78.872416,
+          42.901478
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "THCO",
@@ -3742,7 +5477,13 @@
       "Fax Number": "(518) 943-0652",
       "Latitude": 42.225588,
       "Longitude": -73.861144,
-      "Location": { "coordinates": [-73.861144, 42.225588], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.861144,
+          42.225588
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "EDIS",
@@ -3755,7 +5496,13 @@
       "Fax Number": "(973) 736-6567",
       "Latitude": 40.7839654,
       "Longitude": -74.2339497,
-      "Location": { "coordinates": [-74.2339497, 40.7839654], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -74.2339497,
+          40.7839654
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "THST",
@@ -3768,7 +5515,13 @@
       "Fax Number": "(301) 934-8793",
       "Latitude": 38.5223783,
       "Longitude": -77.0285753,
-      "Location": { "coordinates": [-77.0285753, 38.5223783], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -77.0285753,
+          38.5223783
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "TICA",
@@ -3781,7 +5534,13 @@
       "Fax Number": "(801) 756-5661",
       "Latitude": 40.371125,
       "Longitude": -111.806123,
-      "Location": { "coordinates": [-111.806123, 40.371125], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.806123,
+          40.371125
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "foca",
@@ -3794,7 +5553,13 @@
       "Fax Number": "(904) 221-5248",
       "Latitude": 30.3793742,
       "Longitude": -81.5029008,
-      "Location": { "coordinates": [-81.5029008, 30.3793742], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -81.5029008,
+          30.3793742
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "tont",
@@ -3807,7 +5572,13 @@
       "Fax Number": "(928) 467-2225",
       "Latitude": 33.66672,
       "Longitude": -111.1297924,
-      "Location": { "coordinates": [-111.1297924, 33.66672], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.1297924,
+          33.66672
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "TOSY",
@@ -3820,7 +5591,13 @@
       "Fax Number": "(401) 847-8121",
       "Latitude": 41.489131,
       "Longitude": -71.312102,
-      "Location": { "coordinates": [-71.312102, 41.489131], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -71.312102,
+          41.489131
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "trte",
@@ -3833,7 +5610,13 @@
       "Fax Number": "(505) 986-5214",
       "Latitude": 35.691543,
       "Longitude": -105.937406,
-      "Location": { "coordinates": [-105.937406, 35.691543], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -105.937406,
+          35.691543
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "tule",
@@ -3846,7 +5629,13 @@
       "Fax Number": 0,
       "Latitude": 41.9551552,
       "Longitude": -121.4777694,
-      "Location": { "coordinates": [-121.4777694, 41.9551552], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -121.4777694,
+          41.9551552
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "tuma",
@@ -3859,7 +5648,13 @@
       "Fax Number": "(520) 398-9271",
       "Latitude": 31.57766,
       "Longitude": -110.999009,
-      "Location": { "coordinates": [-110.999009, 31.57766], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.999009,
+          31.57766
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "TUPE",
@@ -3872,7 +5667,13 @@
       "Fax Number": "(662) 680-4034",
       "Latitude": 34.307545,
       "Longitude": -88.720974,
-      "Location": { "coordinates": [-88.720974, 34.307545], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -88.720974,
+          34.307545
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "tuai",
@@ -3885,7 +5686,13 @@
       "Fax Number": "(334) 724-0952",
       "Latitude": 32.4505152,
       "Longitude": -85.6773793,
-      "Location": { "coordinates": [-85.6773793, 32.4505152], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -85.6773793,
+          32.4505152
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "tuin",
@@ -3898,7 +5705,13 @@
       "Fax Number": "(334) 727-4597",
       "Latitude": 32.4283309,
       "Longitude": -85.7091633,
-      "Location": { "coordinates": [-85.7091633, 32.4283309], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -85.7091633,
+          32.4283309
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "tuzi",
@@ -3911,7 +5724,13 @@
       "Fax Number": "(928) 567-3597",
       "Latitude": 34.5636358,
       "Longitude": -111.8543178,
-      "Location": { "coordinates": [-111.8543178, 34.5636358], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.8543178,
+          34.5636358
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ULSG",
@@ -3924,7 +5743,13 @@
       "Fax Number": "(314) 842-1659",
       "Latitude": 38.547834,
       "Longitude": -90.356985,
-      "Location": { "coordinates": [-90.356985, 38.547834], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -90.356985,
+          38.547834
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "UPDE",
@@ -3937,7 +5762,13 @@
       "Fax Number": "(570) 729-7148",
       "Latitude": 41.6199728,
       "Longitude": -75.0508572,
-      "Location": { "coordinates": [-75.0508572, 41.6199728], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.0508572,
+          41.6199728
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "VAFO",
@@ -3950,7 +5781,13 @@
       "Fax Number": "(610) 783-1060",
       "Latitude": 40.095596,
       "Longitude": -75.423987,
-      "Location": { "coordinates": [-75.423987, 40.095596], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.423987,
+          40.095596
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "VAMA",
@@ -3963,7 +5800,13 @@
       "Fax Number": 0,
       "Latitude": 41.77043,
       "Longitude": -73.932905,
-      "Location": { "coordinates": [-73.932905, 41.77043], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.932905,
+          41.77043
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "VICK",
@@ -3976,7 +5819,13 @@
       "Fax Number": "(601) 636-9497",
       "Latitude": 32.345551,
       "Longitude": -90.855577,
-      "Location": { "coordinates": [-90.855577, 32.345551], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -90.855577,
+          32.345551
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "VIIS",
@@ -3989,7 +5838,13 @@
       "Fax Number": "(340) 775-9592",
       "Latitude": 18.34215,
       "Longitude": -64.767569,
-      "Location": { "coordinates": [-64.767569, 18.34215], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -64.767569,
+          18.34215
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "VOYA",
@@ -4002,7 +5857,13 @@
       "Fax Number": "(218) 285-7407",
       "Latitude": 48.6020835,
       "Longitude": -93.403716,
-      "Location": { "coordinates": [-93.403716, 48.6020835], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -93.403716,
+          48.6020835
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "waca",
@@ -4015,7 +5876,13 @@
       "Fax Number": "(928) 527-0246",
       "Latitude": 35.238961,
       "Longitude": -111.570755,
-      "Location": { "coordinates": [-111.570755, 35.238961], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.570755,
+          35.238961
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "wapa",
@@ -4028,7 +5895,13 @@
       "Fax Number": 0,
       "Latitude": 13.44645,
       "Longitude": 144.786636,
-      "Location": { "coordinates": [144.786636, 13.44645], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          144.786636,
+          13.44645
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "wefa",
@@ -4041,7 +5914,13 @@
       "Fax Number": "(203) 834-2421",
       "Latitude": 41.2566156,
       "Longitude": -73.4562524,
-      "Location": { "coordinates": [-73.4562524, 41.2566156], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -73.4562524,
+          41.2566156
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "whis",
@@ -4054,7 +5933,13 @@
       "Fax Number": "(530) 246-5154",
       "Latitude": 40.612879,
       "Longitude": -122.573041,
-      "Location": { "coordinates": [-122.573041, 40.612879], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -122.573041,
+          40.612879
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "WHSA",
@@ -4067,7 +5952,13 @@
       "Fax Number": 0,
       "Latitude": 32.7696209,
       "Longitude": -106.3182956,
-      "Location": { "coordinates": [-106.3182956, 32.7696209], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -106.3182956,
+          32.7696209
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "WIHO",
@@ -4080,7 +5971,13 @@
       "Fax Number": "(513) 684-3627",
       "Latitude": 39.119518,
       "Longitude": -84.508156,
-      "Location": { "coordinates": [-84.508156, 39.119518], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -84.508156,
+          39.119518
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "WORI",
@@ -4093,7 +5990,13 @@
       "Fax Number": "(315) 568-2141",
       "Latitude": 42.9106968,
       "Longitude": -76.8001038,
-      "Location": { "coordinates": [-76.8001038, 42.9106968], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -76.8001038,
+          42.9106968
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "wrst",
@@ -4106,7 +6009,13 @@
       "Fax Number": "(907) 822-7216",
       "Latitude": 61.5614999,
       "Longitude": -143.8523096,
-      "Location": { "coordinates": [-143.8523096, 61.5614999], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -143.8523096,
+          61.5614999
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "WRBR",
@@ -4119,7 +6028,13 @@
       "Fax Number": "(252) 473-2595",
       "Latitude": 35.938547,
       "Longitude": -75.712322,
-      "Location": { "coordinates": [-75.712322, 35.938547], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -75.712322,
+          35.938547
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "wupa",
@@ -4132,7 +6047,13 @@
       "Fax Number": "(928) 679-2349",
       "Latitude": 35.238961,
       "Longitude": -111.570755,
-      "Location": { "coordinates": [-111.570755, 35.238961], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -111.570755,
+          35.238961
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "YELL",
@@ -4145,7 +6066,13 @@
       "Fax Number": "(307) 344-2014",
       "Latitude": 44.462085,
       "Longitude": -110.642441,
-      "Location": { "coordinates": [-110.642441, 44.462085], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -110.642441,
+          44.462085
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "yose",
@@ -4158,7 +6085,13 @@
       "Fax Number": 0,
       "Latitude": 37.7189997,
       "Longitude": -119.5571677,
-      "Location": { "coordinates": [-119.5571677, 37.7189997], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -119.5571677,
+          37.7189997
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "yuho",
@@ -4171,7 +6104,13 @@
       "Fax Number": "(970) 529-4637",
       "Latitude": 37.16748,
       "Longitude": -108.525539,
-      "Location": { "coordinates": [-108.525539, 37.16748], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -108.525539,
+          37.16748
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "yuch",
@@ -4184,7 +6123,13 @@
       "Fax Number": "(907) 547-2247",
       "Latitude": 64.78943,
       "Longitude": -141.202849,
-      "Location": { "coordinates": [-141.202849, 64.78943], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -141.202849,
+          64.78943
+        ],
+        "type": "Point"
+      }
     },
     {
       "Location Number": "ZION",
@@ -4197,7 +6142,13 @@
       "Fax Number": "(435) 772-3426",
       "Latitude": 37.240801,
       "Longitude": -112.941626,
-      "Location": { "coordinates": [-112.941626, 37.240801], "type": "Point" }
+      "Location": {
+        "coordinates": [
+          -112.941626,
+          37.240801
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
