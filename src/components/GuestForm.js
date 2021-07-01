@@ -13,7 +13,7 @@ export default class GuestForm extends Component {
         content: '',
     }
 
-
+    
     handleOnChange = (event) => {
         const  { name, value } = event.target
         this.setState({
