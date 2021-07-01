@@ -5,30 +5,6 @@
       "createdAt": "Example",
       "content": "Example",
       "id": 1
-    },
-    {
-      "createdAt": "",
-      "id": 2
-    },
-    {
-      "createdAt": "",
-      "id": 3
-    },
-    {
-      "createdAt": "",
-      "id": 4
-    },
-    {
-      "guestName": "asd",
-      "createdAt": "",
-      "content": "asd",
-      "id": 5
-    },
-    {
-      "guestName": "Etamar",
-      "createdAt": "",
-      "content": "hahaha",
-      "id": 6
     }
   ],
   "parks": [

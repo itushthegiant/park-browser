@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import Container from 'react-bootstrap/Container'
-import GuestForm from './GuestForm'
+import GuestForm from '../components/GuestForm'
+import GuestReview from '../components/GuestReview'
+import Row from 'react-bootstrap/Row'
 
 
 export default class Triplog extends Component {
@@ -9,10 +11,16 @@ export default class Triplog extends Component {
         logs: []
     }
 
-    
+
     addNewLog = (log) => {
         this.setState({
             logs: [...this.state.logs, log]
+        })
+    }
+
+    mapLogs = () => {
+        return this.state.logs.map(log => {
+            return <GuestReview logData={log} />
         })
     }
 
@@ -28,10 +36,9 @@ export default class Triplog extends Component {
                 <Container>
                     <GuestForm addNewLog={this.addNewLog} />
                 </Container>
-
-                <Container>
-
-                </Container>
+                    <Row>
+                        {this.mapLogs()}
+                    </Row>
             </div>
         )
     }

@@ -1,6 +1,8 @@
-import React, { Component } from 'react'
-import Form from 'react-bootstrap/Form'
-import Button from 'react-bootstrap/Button'
+import React, { Component } from 'react';
+import Form from 'react-bootstrap/Form';
+import Button from 'react-bootstrap/Button';
+import moment from 'moment';
+
 
 
 export default class GuestForm extends Component {
@@ -15,7 +17,7 @@ export default class GuestForm extends Component {
     handleOnChange = (event) => {
         const  { name, value } = event.target
         this.setState({
-            [name]: value
+            [name]: value,
         })
     }
 
