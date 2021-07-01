@@ -15,26 +15,16 @@ export default class SearchBar extends Component {
 
 ß
 
-    handleCityChange = (event) => {
+    handleOnChange = (event) => {
+        const  { name, value } = event.target
         this.setState({
-            city: event.target.value
-        })
-    }
-
-
-    handleStateChange = (event) => {
-        this.setState({
-            state: event.target.value
+            [name]: value,
         })
     }
 
 
 
-    handleAddressChange = (event) => {
-        this.setState({
-            address: event.target.value
-        })
-    }
+
 
     handleSubmit = (event) => {
         event.preventDefault()
@@ -55,13 +45,13 @@ export default class SearchBar extends Component {
                     <Form onSubmit={this.handleSubmit}>
                         <Row>
                             <Col>
-                                <Form.Control placeholder="Address" onChange={this.handleAddressChange} />
+                                <Form.Control placeholder="Address" name='address' onChange={this.handleOnChange} />
                             </Col>
                             <Col >
-                                <Form.Control placeholder="City" onChange={this.handleCityChange} />
+                                <Form.Control placeholder="City" name='city' onChange={this.handleOnChange} />
                             </Col>
                             <Col>
-                                <Form.Control placeholder="State" onChange={this.handleStateChange} />
+                                <Form.Control placeholder="State" name='state' onChange={this.handleOnChange} />
                             </Col>
                         </Row>
                         <Button variant="success" type="submit">Search</Button>
