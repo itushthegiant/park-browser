@@ -10,7 +10,8 @@ import { faBookOpen } from '@fortawesome/free-solid-svg-icons'
 export default class Triplog extends Component {
 
     state = {
-        logs: []
+        logs: [],
+        parks: []
     }
 
 
@@ -24,6 +25,14 @@ export default class Triplog extends Component {
         return this.state.logs.map(log => {
             return <GuestReview logData={log} />
         })
+    }
+
+    componentDidMount() {
+        fetch('http://localhost:5000/parks')
+            .then(resp => resp.json())
+            .then(data => this.setState({
+                parks: data
+            }))
     }
 
 

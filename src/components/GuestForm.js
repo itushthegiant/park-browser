@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import moment from 'moment';
-
+import ToggleParkName from './ToggleParkName';
 
 
 export default class GuestForm extends Component {
@@ -54,6 +54,7 @@ export default class GuestForm extends Component {
                             <Form.Label>Name</Form.Label>
                             <Form.Control type="text" placeholder="Name" name='name' onChange={this.handleOnChange} />
                         </Form.Group>
+                        <ToggleParkName />
                         <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
                             <Form.Label>Tell us about your experience</Form.Label>
                             <Form.Control as="textarea" name='content' rows={7} placeholder="Your experience..." onChange={this.handleOnChange} />
