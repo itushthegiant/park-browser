@@ -10,7 +10,6 @@ export default class Parks extends Component {
     state = {
         parks: [],
         showedParks: []
-
     }
 
 

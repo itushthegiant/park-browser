@@ -27,10 +27,32 @@ code {
 }
 
 .park-card {
-  height: 280px;
+  height: 300px;
   background-image: url('./assets/ep_naturalwhite.png');
+  border: 2px solid #73AD21 !important;
+  border-radius: 15px 50px 30px !important;
+  width: 270px !important;
 }
 
 .review-card {
   background-image: url('./assets/papyrus.png');
+  border: 2px solid #73AD21 !important;
+  border-radius: 15px !important;
+  width: 270px !important;
+}
+
+
+.form-label {
+  font-weight: bold;
+}
+
+.search-bar-part {
+  border-radius: 25px !important;
+  border: 1.5px solid #73AD21 !important;
+}  
+
+
+.triplog-textarea {
+  border-radius: 25px !important;
+  border: 1.5px solid #73AD21 !important;
 }

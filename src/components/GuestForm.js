@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import moment from 'moment';
-import ToggleParkName from './ToggleParkName';
 
 
 export default class GuestForm extends Component {
@@ -36,13 +35,16 @@ export default class GuestForm extends Component {
             body: JSON.stringify({
                 guestName: this.state.name,
                 createdAt: this.state.createdAt,
-                content: this.state.content
+                content: this.state.content,
             })
         })
         .then(resp => resp.json())
         .then(data => this.props.addNewLog(data))
     }
 
+  
+
+    
 
 
 
@@ -51,13 +53,12 @@ export default class GuestForm extends Component {
             <div>
                 <Form onSubmit={this.handleSubmit}>
                         <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                            <Form.Label>Name</Form.Label>
-                            <Form.Control type="text" placeholder="Name" name='name' onChange={this.handleOnChange} />
+                            <Form.Label className="form-label">Name</Form.Label>
+                            <Form.Control className="triplog-textarea" type="text" placeholder="Name" name='name' onChange={this.handleOnChange} />
                         </Form.Group>
-                        <ToggleParkName />
                         <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
-                            <Form.Label>Tell us about your experience</Form.Label>
-                            <Form.Control as="textarea" name='content' rows={7} placeholder="Your experience..." onChange={this.handleOnChange} />
+                            <Form.Label className="form-label">Tell us about your experience</Form.Label>
+                            <Form.Control className="triplog-textarea" as="textarea" name='content' rows={7} placeholder="Your experience..." onChange={this.handleOnChange} />
                         </Form.Group>
                         <Button variant="primary" type="submit">
                             Submit

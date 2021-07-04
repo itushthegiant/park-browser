@@ -45,13 +45,13 @@ export default class SearchBar extends Component {
                     <Form onSubmit={this.handleSubmit}>
                         <Row>
                             <Col>
-                                <Form.Control placeholder="Address" name='address' onChange={this.handleOnChange} />
+                                <Form.Control className="search-bar-part" placeholder="Address" name='address' onChange={this.handleOnChange} />
                             </Col>
                             <Col >
-                                <Form.Control placeholder="City" name='city' onChange={this.handleOnChange} />
+                                <Form.Control className="search-bar-part" placeholder="City" name='city' onChange={this.handleOnChange} />
                             </Col>
                             <Col>
-                                <Form.Control placeholder="State" name='state' onChange={this.handleOnChange} />
+                                <Form.Control className="search-bar-part" placeholder="State" name='state' onChange={this.handleOnChange} />
                             </Col>
                         </Row>
                         <Button variant="success" type="submit" className='mb-5 mt-2'>Search</Button>

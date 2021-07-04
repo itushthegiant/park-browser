@@ -11,7 +11,6 @@ export default class Triplog extends Component {
 
     state = {
         logs: [],
-        parks: []
     }
 
 
@@ -28,10 +27,10 @@ export default class Triplog extends Component {
     }
 
     componentDidMount() {
-        fetch('http://localhost:5000/parks')
+        fetch('http://localhost:5000/triplog')
             .then(resp => resp.json())
             .then(data => this.setState({
-                parks: data
+                logs: data
             }))
     }
 
@@ -42,15 +41,15 @@ export default class Triplog extends Component {
         return (
             <div className='triplog'>
                 <h1>
-                    <FontAwesomeIcon icon={faBookOpen}/>
+                    <FontAwesomeIcon icon={faBookOpen} />
                     Triplog
                 </h1>
                 <Container className='mb-5'>
                     <GuestForm addNewLog={this.addNewLog} />
                 </Container>
-                    <Row>
-                        {this.mapLogs()}
-                    </Row>
+                <Row>
+                    {this.mapLogs()}
+                </Row>
             </div>
         )
     }
