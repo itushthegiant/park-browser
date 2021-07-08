@@ -59,3 +59,15 @@ code {
   border-radius: 25px !important;
   border: 1.5px solid #73AD21 !important;
 }
+
+.about-header {
+  background: #ACE1AF;
+  padding: 100px;
+}
+
+
+.about-story {
+  color: #1B4D3E;
+  font-weight: bold;
+  text-shadow: #fc0 1px 0 10px;
+}
